@@ -10,12 +10,12 @@ import {LessonsComponent} from './lessons/lessons.component';
 
 const routes: Routes = [
   {path: '', redirectTo: '/home', pathMatch: 'full'},
-  {path: 'home', component: HomeComponent, data: { title: 'Попова Анастасия' } },
+  {path: 'home', component: HomeComponent, data: { title: 'Анастасия Попова' } },
   {path: 'photo', component: PhotoComponent, data: { title: 'Фото' } },
   {path: 'about', component: AboutComponent, data: { title: 'Обо мне' } },
-  {path: 'parents', component: ParentsComponent, data: { title: 'Информация для родителей' } },
+  {path: 'teachers', component: ParentsComponent, data: { title: 'Информация для учителей' } },
   {path: 'students', component: StudentsComponent, data: { title: 'Информация для учеников' } },
-  {path: 'lessons', component: LessonsComponent, data: { title: 'Конспекты уроков' }}
+  {path: 'lessons', component: LessonsComponent, data: { title: 'Учебно-методическая литература' }}
 ];
 
 @NgModule({
