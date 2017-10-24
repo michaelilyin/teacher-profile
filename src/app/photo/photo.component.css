@@ -1,0 +1,11 @@
+mat-grid-tile {
+  cursor: pointer;
+}
+
+mat-grid-tile div.photo {
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+}
