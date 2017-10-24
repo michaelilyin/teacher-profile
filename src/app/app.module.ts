@@ -8,7 +8,7 @@ import {RouterModule} from '@angular/router';
 import {AboutComponent} from "app/about/about.component";
 import {HomeComponent} from './home/home.component';
 import {LessonsComponent} from './lessons/lessons.component';
-import {ParentsComponent} from './parents/parents.component';
+import {TeachersComponent} from './teachers/teachers.component';
 import {PhotoComponent} from './photo/photo.component';
 import {StudentsComponent} from './students/students.component';
 import {AppRoutingModule} from './app.routing.module';
@@ -22,7 +22,7 @@ import {AngularFireDatabaseModule} from 'angularfire2/database';
     AboutComponent,
     HomeComponent,
     LessonsComponent,
-    ParentsComponent,
+    TeachersComponent,
     PhotoComponent,
     StudentsComponent
   ],
