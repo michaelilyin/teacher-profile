@@ -1,1 +1,53 @@
-В разработке
+<mat-accordion>
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>Учебники по русскому языку</mat-panel-title>
+    </mat-expansion-panel-header>
+    <mat-list>
+      <div *ngFor="let group of russian; let last=last">
+        <h3 *ngIf="group.name">{{group.name}}</h3>
+        <mat-list-item *ngFor="let res of group.resources">
+          <mat-icon mat-list-icon>library_books</mat-icon>
+          <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
+          <div mat-line>
+            <a [href]="res.link">Ссылка для загрузки</a>
+          </div>
+        </mat-list-item>
+        <mat-divider *ngIf="!last"></mat-divider>
+      </div>
+    </mat-list>
+  </mat-expansion-panel>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>Учебники по литературе</mat-panel-title>
+    </mat-expansion-panel-header>
+    <mat-list>
+      <div *ngFor="let group of literature; let last=last">
+        <h3 *ngIf="group.name">{{group.name}}</h3>
+        <mat-list-item *ngFor="let res of group.resources">
+          <mat-icon mat-list-icon>library_books</mat-icon>
+          <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
+          <div mat-line>
+            <a [href]="res.link">Ссылка для загрузки</a>
+          </div>
+        </mat-list-item>
+        <mat-divider *ngIf="!last"></mat-divider>
+      </div>
+    </mat-list>
+  </mat-expansion-panel>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>Словари</mat-panel-title>
+    </mat-expansion-panel-header>
+    <p></p>
+  </mat-expansion-panel>
+
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>Образовательные ресурсы</mat-panel-title>
+    </mat-expansion-panel-header>
+    <p></p>
+  </mat-expansion-panel>
+</mat-accordion>

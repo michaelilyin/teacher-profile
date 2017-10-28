@@ -4,8 +4,8 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {
-  MatButtonModule,
-  MatDialogModule, MatExpansionModule, MatGridListModule, MatIconModule, MatProgressSpinnerModule,
+  MatButtonModule, MatCardModule,
+  MatDialogModule, MatExpansionModule, MatGridListModule, MatIconModule, MatListModule, MatProgressSpinnerModule,
   MatTabsModule
 } from '@angular/material';
 import {RouterModule} from '@angular/router';
@@ -50,7 +50,9 @@ import {PhotoDialogComponent} from "./photo/photo.dialog.component";
     MatDialogModule,
     MatExpansionModule,
     MatButtonModule,
-    MatIconModule
+    MatIconModule,
+    MatCardModule,
+    MatListModule
   ],
   providers: [],
   entryComponents: [
