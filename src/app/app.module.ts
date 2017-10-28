@@ -3,7 +3,11 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {MatDialogModule, MatGridListModule, MatProgressSpinnerModule, MatTabsModule} from '@angular/material';
+import {
+  MatButtonModule,
+  MatDialogModule, MatExpansionModule, MatGridListModule, MatIconModule, MatProgressSpinnerModule,
+  MatTabsModule
+} from '@angular/material';
 import {RouterModule} from '@angular/router';
 import {AboutComponent} from "app/about/about.component";
 import {HomeComponent} from './home/home.component';
@@ -43,7 +47,10 @@ import {PhotoDialogComponent} from "./photo/photo.dialog.component";
     MatTabsModule,
     MatProgressSpinnerModule,
     MatGridListModule,
-    MatDialogModule
+    MatDialogModule,
+    MatExpansionModule,
+    MatButtonModule,
+    MatIconModule
   ],
   providers: [],
   entryComponents: [

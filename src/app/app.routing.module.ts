@@ -17,7 +17,7 @@ const routes: Routes = [
     component: PhotoComponent,
     data: { title: 'Фото' },
     children: [
-      { path: ':id', component: PhotoDialogRouterSupport }
+      { path: ':id', component: PhotoDialogRouterSupport, data: { title: 'Просмотр фото' } }
     ]
   },
 

@@ -37,7 +37,9 @@ export class AppComponent implements AfterViewInit {
         while (state.firstChild) {
           state = state.firstChild;
         }
-        title.setTitle(state.data.title);
+        if (state.data.title) {
+          title.setTitle(state.data.title);
+        }
       }
     });
 

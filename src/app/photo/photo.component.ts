@@ -3,8 +3,12 @@ import {MatDialog} from "@angular/material";
 import {PhotoDialogComponent} from "./photo.dialog.component";
 import {ActivatedRoute, Router} from "@angular/router";
 import {Subscription} from "rxjs/Subscription";
-import {AngularFirestore} from "angularfire2/firestore";
 import {AngularFireDatabase} from "angularfire2/database";
+import {Keyable, mapListKeys} from '../common/keyable';
+
+export class Photo {
+  url: string;
+}
 
 @Component({
   selector: 'photo',
@@ -13,16 +17,15 @@ import {AngularFireDatabase} from "angularfire2/database";
 })
 export class PhotoComponent {
 
-  public images: Array<{[p:string]:any}> = [];
+  public images: Array<Keyable<Photo>> = [];
 
   constructor(private router: Router,
               private db: AngularFireDatabase) {
-    this.db.object('/public/photo').valueChanges().subscribe(obj => {
-      this.images = [];
-      Object.keys(obj).forEach(key => {
-        this.images.push({$key: key, url: obj[key]['url']});
-      })
-    });
+    this.db.list<Photo>('/public/photo').snapshotChanges()
+      .map(mapListKeys)
+      .subscribe(photos => {
+        this.images = photos;
+      });
   }
 
   public onSelect(key) {
@@ -33,7 +36,7 @@ export class PhotoComponent {
 
 @Component({
   selector: 'photo-dialog-router-support',
-  template: ''
+  template: '<div></div>'
 })
 export class PhotoDialogRouterSupport implements OnInit, OnDestroy {
 
