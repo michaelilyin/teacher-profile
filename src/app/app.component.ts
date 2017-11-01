@@ -1,4 +1,4 @@
-import {AfterViewInit, Component} from '@angular/core';
+import {AfterViewInit, Component, Directive, ElementRef, Input, OnChanges} from '@angular/core';
 import {AngularFireDatabase} from 'angularfire2/database';
 import {Subject} from 'rxjs/Subject';
 import 'rxjs/add/observable/zip';
@@ -7,6 +7,24 @@ import {Subscription} from 'rxjs/Subscription';
 import {Observable} from 'rxjs/Observable';
 import {Title} from '@angular/platform-browser';
 import {ResolveEnd, Router} from '@angular/router';
+import {MarkdownService} from 'angular2-markdown';
+
+declare const MathJax: any;
+
+@Directive({
+  selector: '[mathjax]'
+})
+export class MathJaxDirective implements OnChanges {
+
+  @Input("mathjax") private value: string = "";
+
+  constructor(private element: ElementRef) {}
+
+  ngOnChanges() {
+    this.element.nativeElement.innerHTML = this.value;
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, this.element.nativeElement]);
+  }
+}
 
 @Component({
   selector: 'app-root',
@@ -29,7 +47,7 @@ export class AppComponent implements AfterViewInit {
   private internalInitialize = new Subject<boolean>();
   private initSubscription: Subscription;
 
-  constructor(db: AngularFireDatabase, router: Router, title: Title) {
+  constructor(private _markdown: MarkdownService, db: AngularFireDatabase, router: Router, title: Title) {
     router.events.subscribe((event) => {
       if (event instanceof ResolveEnd) {
         const resolveEnd = event as ResolveEnd;
@@ -54,5 +72,10 @@ export class AppComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
     this.internalInitialize.next(true);
+    console.info(this._markdown);
+    this._markdown.renderer.heading = function(text) {
+      console.info(arguments);
+      return `<span mathjax="${text}"></span>`;
+    };
   }
 }

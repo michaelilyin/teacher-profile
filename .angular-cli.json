@@ -21,7 +21,11 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": [],
+      "scripts": [
+        "../node_modules/mathjax/MathJax.js",
+        "../node_modules/mathjax/extensions/MathMenu.js",
+        "../node_modules/mathjax/extensions/MathZoom.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",

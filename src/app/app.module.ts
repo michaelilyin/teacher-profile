@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { AppComponent } from './app.component';
+import {AppComponent, MathJaxDirective} from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {
   MatButtonModule, MatCardModule,
@@ -20,6 +20,7 @@ import {environment} from '../environments/environment';
 import {AngularFireModule} from 'angularfire2';
 import {AngularFireDatabaseModule} from 'angularfire2/database';
 import {PhotoDialogComponent} from "./photo/photo.dialog.component";
+import {MarkdownModule} from 'angular2-markdown';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,9 @@ import {PhotoDialogComponent} from "./photo/photo.dialog.component";
     StudentsComponent,
 
     PhotoDialogComponent,
-    PhotoDialogRouterSupport
+    PhotoDialogRouterSupport,
+
+    MathJaxDirective
   ],
   imports: [
     BrowserModule,
@@ -52,7 +55,9 @@ import {PhotoDialogComponent} from "./photo/photo.dialog.component";
     MatButtonModule,
     MatIconModule,
     MatCardModule,
-    MatListModule
+    MatListModule,
+
+    MarkdownModule.forRoot()
   ],
   providers: [],
   entryComponents: [
