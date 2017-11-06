@@ -1,23 +1,3 @@
-.body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.body .content {
-  max-width: 1024px;
-}
-
-.body .content nav {
-  z-index: 10;
-}
-
-.body .content .page {
-  width: 100%;
-  padding: 5px;
-}
-
 .mat-tab-link {
   min-width: 140px;
 }

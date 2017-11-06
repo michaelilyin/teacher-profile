@@ -10,3 +10,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.body .content {
+  max-width: 1024px;
+}
+
+.body .content nav {
+  z-index: 10;
+  width: 1024px;
+}
+
+.body .content nav div.mat-tab-links {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.body .content .page {
+  width: 100%;
+  padding-top: 5px;
+}

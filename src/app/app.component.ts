@@ -72,10 +72,5 @@ export class AppComponent implements AfterViewInit {
 
   ngAfterViewInit(): void {
     this.internalInitialize.next(true);
-    console.info(this._markdown);
-    this._markdown.renderer.heading = function(text) {
-      console.info(arguments);
-      return `<span mathjax="${text}"></span>`;
-    };
   }
 }
