@@ -21,6 +21,8 @@ import {AngularFireModule} from 'angularfire2';
 import {AngularFireDatabaseModule} from 'angularfire2/database';
 import {PhotoDialogComponent} from "./photo/photo.dialog.component";
 import {MarkdownModule} from 'angular2-markdown';
+import {PdfComponent} from './common/pdf/pdf.component';
+import {PdfViewerModule} from 'ng2-pdf-viewer';
 
 @NgModule({
   declarations: [
@@ -35,6 +37,8 @@ import {MarkdownModule} from 'angular2-markdown';
 
     PhotoDialogComponent,
     PhotoDialogRouterSupport,
+
+    PdfComponent,
 
     MathJaxDirective
   ],
@@ -57,7 +61,8 @@ import {MarkdownModule} from 'angular2-markdown';
     MatCardModule,
     MatListModule,
 
-    MarkdownModule.forRoot()
+    MarkdownModule.forRoot(),
+    PdfViewerModule
   ],
   providers: [],
   entryComponents: [
