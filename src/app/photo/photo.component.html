@@ -1,6 +1,6 @@
 <router-outlet></router-outlet>
 <mat-grid-list cols="3" rowHeight="1:1">
   <mat-grid-tile *ngFor="let img of images" (click)="onSelect(img.key)">
-    <div class="photo" [ngStyle]="{ 'background-image': 'url(' + img.data.url + ')' }"></div>
+    <div *ngIf="img.data.url" class="photo" [ngStyle]="{ 'background-image': 'url(' + img.data.url + ')' }"></div>
   </mat-grid-tile>
 </mat-grid-list>
