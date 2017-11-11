@@ -13,6 +13,7 @@ body {
 
 .body {
   display: flex;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   flex-flow: column;
@@ -52,4 +53,29 @@ app-pdf.horizontal .page {
   justify-content: center;
   height: auto;
   max-width: 1024px;
+}
+
+.syntax span {
+  background: url(/assets/images/syntax.png) repeat-x 0 -12px;
+  padding-bottom: 4px;
+}
+
+.syntax .definition {
+  background-position: 0 -51px;
+}
+
+.syntax .subject {
+  background-position: 0 -4px;
+}
+
+.syntax .adverbial {
+  background-position: 0 -97px;
+}
+
+.syntax .predicate {
+  background-position: 0 -28px;
+}
+
+.syntax .aplification {
+  background-position: 0 -74px;
 }

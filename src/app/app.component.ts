@@ -38,7 +38,7 @@ export class AppComponent implements AfterViewInit {
   public links = [
     {label: 'Главная', path: 'home'},
     {label: 'Обо мне', path: 'about'},
-    {label: 'Фото', path: 'photo'},
+    {label: 'Фото', path: 'contacts'},
     {label: 'Учителям', path: 'teachers'},
     {label: 'Ученикам', path: 'students'},
     {label: 'Учебно-методическая литература', path: 'lessons'}

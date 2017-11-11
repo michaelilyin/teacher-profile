@@ -9,17 +9,16 @@ import {
   MatTabsModule
 } from '@angular/material';
 import {RouterModule} from '@angular/router';
-import {AboutComponent} from "app/about/about.component";
+import {AboutComponent} from 'app/about/about.component';
 import {HomeComponent} from './home/home.component';
 import {LessonsComponent} from './lessons/lessons.component';
 import {TeachersComponent} from './teachers/teachers.component';
-import {PhotoComponent, PhotoDialogRouterSupport} from './photo/photo.component';
+import {ContactsComponent} from './photo/photo.component';
 import {StudentsComponent} from './students/students.component';
 import {AppRoutingModule} from './app.routing.module';
 import {environment} from '../environments/environment';
 import {AngularFireModule} from 'angularfire2';
 import {AngularFireDatabaseModule} from 'angularfire2/database';
-import {PhotoDialogComponent} from "./photo/photo.dialog.component";
 import {MarkdownModule} from 'angular2-markdown';
 import {PdfComponent} from './common/pdf/pdf.component';
 import {PdfViewerModule} from 'ng2-pdf-viewer';
@@ -36,11 +35,8 @@ import {
     HomeComponent,
     LessonsComponent,
     TeachersComponent,
-    PhotoComponent,
+    ContactsComponent,
     StudentsComponent,
-
-    PhotoDialogComponent,
-    PhotoDialogRouterSupport,
 
     PdfComponent,
     PdfPageReferencerListItemComponent,
@@ -72,7 +68,6 @@ import {
   ],
   providers: [],
   entryComponents: [
-    PhotoDialogComponent
   ],
   bootstrap: [AppComponent]
 })
