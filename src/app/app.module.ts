@@ -13,7 +13,7 @@ import {AboutComponent} from 'app/about/about.component';
 import {HomeComponent} from './home/home.component';
 import {LessonsComponent} from './lessons/lessons.component';
 import {TeachersComponent} from './teachers/teachers.component';
-import {ContactsComponent} from './photo/photo.component';
+import {ContactsComponent} from './photo/contacts.component';
 import {StudentsComponent} from './students/students.component';
 import {AppRoutingModule} from './app.routing.module';
 import {environment} from '../environments/environment';
