@@ -6,7 +6,7 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {
   MatButtonModule, MatCardModule,
   MatDialogModule, MatExpansionModule, MatGridListModule, MatIconModule, MatListModule, MatProgressSpinnerModule,
-  MatTabsModule
+  MatTabsModule, MatTooltipModule
 } from '@angular/material';
 import {RouterModule} from '@angular/router';
 import {AboutComponent} from 'app/about/about.component';
@@ -62,6 +62,7 @@ import {
     MatIconModule,
     MatCardModule,
     MatListModule,
+    MatTooltipModule,
 
     MarkdownModule.forRoot(),
     PdfViewerModule
