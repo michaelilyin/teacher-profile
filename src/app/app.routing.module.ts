@@ -2,7 +2,7 @@ import {RouterModule, Routes} from '@angular/router';
 import {NgModule} from '@angular/core';
 import {HomeComponent} from './home/home.component';
 import {AboutComponent} from 'app/about/about.component';
-import {ContactsComponent} from './photo/contacts.component';
+import {ContactsComponent} from './contacts/contacts.component';
 import {TeachersComponent} from './teachers/teachers.component';
 import {StudentsComponent} from './students/students.component';
 import {LessonsComponent} from './lessons/lessons.component';
