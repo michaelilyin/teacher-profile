@@ -13,12 +13,13 @@ body {
 
 .body {
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-direction: column;
+  flex-flow: column;
 }
 
 .body .content {
+  flex: 1 1 100%;
   max-width: 1024px;
 }
 
@@ -33,10 +34,22 @@ body {
 }
 
 .body .content .page {
-  width: 100%;
   padding-top: 5px;
 }
 
 app-pdf.horizontal .page {
   margin-top: -60px !important;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.footer {
+  flex: 0 1 auto;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  max-width: 1024px;
 }

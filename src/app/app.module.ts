@@ -23,7 +23,10 @@ import {PhotoDialogComponent} from "./photo/photo.dialog.component";
 import {MarkdownModule} from 'angular2-markdown';
 import {PdfComponent} from './common/pdf/pdf.component';
 import {PdfViewerModule} from 'ng2-pdf-viewer';
-import {MarkListComponent} from './teachers/mark-list/mark-list.component';
+import {
+  PdfPageComponent,
+  PdfPageReferencerListItemComponent
+} from './common/pdf-page/pdf-page.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +36,6 @@ import {MarkListComponent} from './teachers/mark-list/mark-list.component';
     HomeComponent,
     LessonsComponent,
     TeachersComponent,
-    MarkListComponent,
     PhotoComponent,
     StudentsComponent,
 
@@ -41,6 +43,8 @@ import {MarkListComponent} from './teachers/mark-list/mark-list.component';
     PhotoDialogRouterSupport,
 
     PdfComponent,
+    PdfPageReferencerListItemComponent,
+    PdfPageComponent,
 
     MathJaxDirective
   ],

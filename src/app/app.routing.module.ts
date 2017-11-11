@@ -6,7 +6,7 @@ import {PhotoComponent, PhotoDialogRouterSupport} from './photo/photo.component'
 import {TeachersComponent} from './teachers/teachers.component';
 import {StudentsComponent} from './students/students.component';
 import {LessonsComponent} from './lessons/lessons.component';
-import {MarkListComponent} from './teachers/mark-list/mark-list.component';
+import {PdfPageComponent} from './common/pdf-page/pdf-page.component';
 
 
 const routes: Routes = [
@@ -29,9 +29,9 @@ const routes: Routes = [
     data: { title: 'Информация для учителей' }
   },
   {
-    path: 'teachers/marks/:id',
-    component: MarkListComponent,
-    data: { title: 'Оценочный лист' }
+    path: 'files/:group/:id',
+    component: PdfPageComponent,
+    data: { title: 'Документ' }
   },
   {path: 'students', component: StudentsComponent, data: { title: 'Информация для учеников' } },
   {path: 'lessons', component: LessonsComponent, data: { title: 'Учебно-методическая литература' }}
