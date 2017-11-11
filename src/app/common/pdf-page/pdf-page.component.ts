@@ -12,6 +12,8 @@ export class PdfPageComponent implements OnInit {
   public downloadPath: string;
   public id: string;
 
+  public complete = false;
+
   private routerSub: Subscription;
 
   constructor(private route: ActivatedRoute,
@@ -25,9 +27,14 @@ export class PdfPageComponent implements OnInit {
     this.routerSub = this.route.params.subscribe(params => {
       this.id = params['id'];
       const group = params['group'];
+      const type = params['type'];
       this.path = `/assets/files/${group}/${params['id']}.pdf`;
-      this.downloadPath = `/assets/files/${group}/${params['id']}.docx`;
+      this.downloadPath = `/assets/files/${group}/${params['id']}.${type}`;
     })
+  }
+
+  completed() {
+    this.complete = true;
   }
 
   back() {
@@ -42,7 +49,7 @@ export class PdfPageComponent implements OnInit {
       <mat-icon mat-list-icon *ngIf="icon">{{icon}}</mat-icon>
       <h4 mat-line>{{title}}</h4>
       <div mat-line>
-        <a routerLink="/files/{{group}}/{{file}}">Просмотр</a> <a href="/assets/files/{{group}}/{{file}}.docx" target="_blank">Загрузка</a>
+        <a routerLink="/files/{{group}}/{{file}}/{{type}}">Просмотр</a> <a href="/assets/files/{{group}}/{{file}}.{{type}}" target="_blank">Загрузка</a>
       </div>
     </mat-list-item>
   `
@@ -60,4 +67,7 @@ export class PdfPageReferencerListItemComponent {
 
   @Input()
   public file: string;
+
+  @Input()
+  public type = 'docx';
 }
