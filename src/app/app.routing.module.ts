@@ -19,7 +19,7 @@ const routes: Routes = [
     data: { title: 'Информация для учителей' }
   },
   {
-    path: 'files/:group/:id',
+    path: 'files/:group/:id/:type',
     component: PdfPageComponent,
     data: { title: 'Документ' }
   },

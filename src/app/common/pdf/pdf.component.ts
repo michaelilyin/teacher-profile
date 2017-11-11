@@ -1,4 +1,4 @@
-import {Component, Input} from '@angular/core';
+import {Component, EventEmitter, Input, Output} from '@angular/core';
 
 @Component({
   selector: 'app-pdf',
@@ -8,5 +8,12 @@ export class PdfComponent {
 
   @Input()
   public source: string;
+
+  @Output("after-load-complete")
+  public afterLoadComplete = new EventEmitter();
+
+  complete() {
+    this.afterLoadComplete.next();
+  }
 
 }
