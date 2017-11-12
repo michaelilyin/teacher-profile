@@ -1,0 +1,10 @@
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px 0 0 -10px;
+}
+.child {
+  display: inline-block;
+  margin: 10px 0 0 10px;
+  flex: 1 1 0%;
+}

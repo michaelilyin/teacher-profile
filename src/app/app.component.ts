@@ -38,10 +38,10 @@ export class AppComponent implements AfterViewInit {
   public links = [
     {label: 'Главная', path: 'home'},
     {label: 'Обо мне', path: 'about'},
-    {label: 'Фото', path: 'contacts'},
     {label: 'Учителям', path: 'teachers'},
     {label: 'Ученикам', path: 'students'},
-    {label: 'Учебно-методическая литература', path: 'lessons'}
+    {label: 'Учебно-методическая литература', path: 'lessons'},
+    {label: 'Контакты', path: 'contacts'},
   ];
 
   private internalInitialize = new Subject<boolean>();

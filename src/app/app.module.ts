@@ -20,6 +20,7 @@ import {environment} from '../environments/environment';
 import {AngularFireModule} from 'angularfire2';
 import {AngularFireDatabaseModule} from 'angularfire2/database';
 import {MarkdownModule} from 'angular2-markdown';
+import {YaCoreModule} from 'angular2-yandex-maps';
 import {PdfComponent} from './common/pdf/pdf.component';
 import {PdfViewerModule} from 'ng2-pdf-viewer';
 import {
@@ -65,6 +66,7 @@ import {
     MatTooltipModule,
 
     MarkdownModule.forRoot(),
+    YaCoreModule.forRoot(),
     PdfViewerModule
   ],
   providers: [],
