@@ -1,0 +1,28 @@
+.div-flex-parent {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px 0 0 -10px;
+}
+.div-flex-child {
+  display: inline-block;
+  margin: 10px 0 0 10px;
+  flex: 1 1 0%;
+}
+
+hr.separator:after {
+  background: none repeat scroll 0 0 #000;
+  content: "";
+  height: 10px;
+  left: 67%;
+  margin: -5px auto auto -5px;
+  position: absolute;
+  transform: rotate(-45deg);
+  width: 10px;
+}
+hr.separator {
+  border-top: 1px solid #000;
+  width: 50%;
+  clear: both;
+  margin-top: 20%;
+  margin-bottom: 19%;
+}
