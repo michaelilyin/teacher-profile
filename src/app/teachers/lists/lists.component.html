@@ -1,0 +1,26 @@
+<mat-card>
+  <div style="display: flex; flex-direction: row;">
+    <button mat-icon-button (click)="back()" matTooltip="Назад">
+      <mat-icon>navigate_before</mat-icon>
+    </button>
+    <h2 style="margin: 8px;"><span>Оценочные листы</span></h2>
+    <div class="spacer"></div>
+  </div>
+
+  <mat-list>
+    <app-pdf-page-referencer-list-item
+      icon="filter_5"
+      title="Оценочные листы по русскому языку и литературе за 5 класс"
+      group="marks"
+      file="Оценочные листы за 5 класс"
+    ></app-pdf-page-referencer-list-item>
+
+    <app-pdf-page-referencer-list-item
+      icon="filter_6"
+      title="Оценочные листы по русскому языку и литературе за 6 класс"
+      group="marks"
+      file="Оценочные листы за 6 класс"
+    ></app-pdf-page-referencer-list-item>
+  </mat-list>
+
+</mat-card>

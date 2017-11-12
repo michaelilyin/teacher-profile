@@ -1,0 +1,24 @@
+<mat-card>
+
+  <div style="display: flex; flex-direction: row;">
+    <button mat-icon-button (click)="back()" matTooltip="Назад">
+      <mat-icon>navigate_before</mat-icon>
+    </button>
+    <h2 style="margin: 8px;"><span>Мои планы-конспекты уроков</span></h2>
+    <div class="spacer"></div>
+  </div>
+
+  <mat-list>
+    <div *ngFor="let group of lessons; let last=last">
+      <h3 *ngIf="group.name">{{group.name}}</h3>
+      <app-pdf-page-referencer-list-item *ngFor="let res of group.resources"
+                                         icon="library_books"
+                                         [title]="res.name"
+                                         group="lessons"
+                                         [file]="res.file"
+      ></app-pdf-page-referencer-list-item>
+      <mat-divider *ngIf="!last"></mat-divider>
+    </div>
+  </mat-list>
+
+</mat-card>

@@ -36,43 +36,15 @@
       </div>
     </mat-list>
   </mat-expansion-panel>
-
-  <mat-expansion-panel>
-    <mat-expansion-panel-header>
-      <mat-panel-title>Мои планы-конспекты уроков</mat-panel-title>
-    </mat-expansion-panel-header>
-    <mat-list>
-      <div *ngFor="let group of lessons; let last=last">
-        <h3 *ngIf="group.name">{{group.name}}</h3>
-        <app-pdf-page-referencer-list-item *ngFor="let res of group.resources"
-                                           icon="library_books"
-                                           [title]="res.name"
-                                           group="lessons"
-                                           [file]="res.file"
-        ></app-pdf-page-referencer-list-item>
-        <mat-divider *ngIf="!last"></mat-divider>
-      </div>
-    </mat-list>
-  </mat-expansion-panel>
-
-  <mat-expansion-panel>
-    <mat-expansion-panel-header>
-      <mat-panel-title>Оценочные листы</mat-panel-title>
-    </mat-expansion-panel-header>
-    <mat-list>
-      <app-pdf-page-referencer-list-item
-        icon="filter_5"
-        title="Оценочные листы по русскому языку и литературе за 5 класс"
-        group="marks"
-        file="Оценочные листы за 5 класс"
-      ></app-pdf-page-referencer-list-item>
-
-      <app-pdf-page-referencer-list-item
-        icon="filter_6"
-        title="Оценочные листы по русскому языку и литературе за 6 класс"
-        group="marks"
-        file="Оценочные листы за 6 класс"
-      ></app-pdf-page-referencer-list-item>
-    </mat-list>
-  </mat-expansion-panel>
 </mat-accordion>
+
+<mat-expansion-panel [hideToggle]="true" routerLink="/plans">
+  <mat-expansion-panel-header>
+    <mat-panel-title>Мои планы-конспекты уроков</mat-panel-title>
+  </mat-expansion-panel-header>
+</mat-expansion-panel>
+<mat-expansion-panel [hideToggle]="true" routerLink="/lists">
+  <mat-expansion-panel-header>
+    <mat-panel-title>Оценочные листы</mat-panel-title>
+  </mat-expansion-panel-header>
+</mat-expansion-panel>

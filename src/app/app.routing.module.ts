@@ -7,6 +7,8 @@ import {TeachersComponent} from './teachers/teachers.component';
 import {StudentsComponent} from './students/students.component';
 import {LessonsComponent} from './lessons/lessons.component';
 import {PdfPageComponent} from './common/pdf-page/pdf-page.component';
+import {ListsComponent} from './teachers/lists/lists.component';
+import {PlansComponent} from './teachers/plans/plans.component';
 
 
 const routes: Routes = [
@@ -18,6 +20,8 @@ const routes: Routes = [
     component: TeachersComponent,
     data: { title: 'Информация для учителей' }
   },
+  { path: 'lists', component: ListsComponent, data: { title: 'Оценочные листы' } },
+  { path: 'plans', component: PlansComponent, data: { title: 'Мои планы-конспекты уроков' } },
   {
     path: 'files/:group/:id/:type',
     component: PdfPageComponent,

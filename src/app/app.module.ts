@@ -27,6 +27,8 @@ import {
   PdfPageComponent,
   PdfPageReferencerListItemComponent
 } from './common/pdf-page/pdf-page.component';
+import {ListsComponent} from './teachers/lists/lists.component';
+import {PlansComponent} from './teachers/plans/plans.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +38,8 @@ import {
     HomeComponent,
     LessonsComponent,
     TeachersComponent,
+    ListsComponent,
+    PlansComponent,
     ContactsComponent,
     StudentsComponent,
 
