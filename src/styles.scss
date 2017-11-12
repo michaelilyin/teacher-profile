@@ -1,4 +1,4 @@
-@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import "orange-theme";
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 @import '~prismjs/themes/prism.css';
 
@@ -9,6 +9,8 @@ html {
 body {
   height: 100%;
   margin: 0;
+  background-image: url(/assets/images/klen13.jpg);
+  background-repeat: repeat;
 }
 
 .body {
@@ -32,14 +34,22 @@ body {
 .body .content nav div.mat-tab-links {
   display: flex !important;
   justify-content: center !important;
+  background-color: #FFFFFF;
+  opacity: 0.9;
+  margin-bottom: 16px;
 }
 
 .body .content .page {
-  padding-top: 5px;
+  padding-bottom: 54px;
+  min-width: calc(100% - 108px);
 }
 
 app-pdf.horizontal .page {
   margin-top: -60px !important;
+}
+
+mat-card {
+  margin-bottom: 16px;
 }
 
 .spacer {
