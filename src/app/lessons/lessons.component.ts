@@ -279,7 +279,7 @@ export class LessonsComponent {
       name: "Фразеологический словарь",
       resources: [{
         name: "А.Н.Тихонов (файл)",
-        link: "/assets/files/dictionaries/Tihonov_A._Frazeologicheskii_slovar_russkogo_yazyka_Litmir.net_bid194456_original_d7dc1.pdf.zip",
+        link: "https://firebasestorage.googleapis.com/v0/b/teacher-profile-8aed8.appspot.com/o/docs%2Fdictionaries%2FTihonov_A._Frazeologicheskii_slovar_russkogo_yazyka_Litmir.net_bid194456_original_d7dc1.pdf.zip?alt=media&token=50d57e2f-7ddd-4326-8c41-3d09c7a5908f",
         local: true,
         icon: "file_download"
       }, {

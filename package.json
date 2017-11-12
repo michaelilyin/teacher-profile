@@ -24,6 +24,7 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "angular2-markdown": "^1.6.0",
+    "angular2-yandex-maps": "^1.0.42",
     "angularfire2": "5.0.0-rc.2",
     "core-js": "^2.4.1",
     "firebase": "^4.6.0",

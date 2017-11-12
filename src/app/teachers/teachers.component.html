@@ -41,7 +41,18 @@
     <mat-expansion-panel-header>
       <mat-panel-title>Мои планы-конспекты уроков</mat-panel-title>
     </mat-expansion-panel-header>
-    <p></p>
+    <mat-list>
+      <div *ngFor="let group of lessons; let last=last">
+        <h3 *ngIf="group.name">{{group.name}}</h3>
+        <app-pdf-page-referencer-list-item *ngFor="let res of group.resources"
+                                           icon="library_books"
+                                           [title]="res.name"
+                                           group="lessons"
+                                           [file]="res.file"
+        ></app-pdf-page-referencer-list-item>
+        <mat-divider *ngIf="!last"></mat-divider>
+      </div>
+    </mat-list>
   </mat-expansion-panel>
 
   <mat-expansion-panel>
