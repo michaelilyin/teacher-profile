@@ -10,7 +10,7 @@
           <mat-icon mat-list-icon>library_books</mat-icon>
           <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
           <div mat-line>
-            <a [href]="res.link">Ссылка для загрузки</a>
+            <a target="_blank" [href]="res.link">Ссылка для загрузки</a>
           </div>
         </mat-list-item>
         <mat-divider *ngIf="!last"></mat-divider>
@@ -29,7 +29,7 @@
           <mat-icon mat-list-icon>library_books</mat-icon>
           <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
           <div mat-line>
-            <a [href]="res.link">Ссылка для загрузки</a>
+            <a target="_blank" [href]="res.link">Ссылка для загрузки</a>
           </div>
         </mat-list-item>
         <mat-divider *ngIf="!last"></mat-divider>
@@ -41,13 +41,41 @@
     <mat-expansion-panel-header>
       <mat-panel-title>Словари</mat-panel-title>
     </mat-expansion-panel-header>
-    <p></p>
+    <mat-list>
+      <div *ngFor="let group of dictionaries; let last=last">
+        <h3 *ngIf="group.name">{{group.name}}</h3>
+        <mat-list-item *ngFor="let res of group.resources">
+
+          <mat-icon mat-list-icon *ngIf="group.icon else defaultGroup">{{group.icon}}</mat-icon>
+          <ng-template #defaultGroup>
+            <mat-icon mat-list-icon *ngIf="res.icon else default">{{res.icon}}</mat-icon>
+          </ng-template>
+          <ng-template #default>
+            <mat-icon mat-list-icon>library_books</mat-icon>
+          </ng-template>
+
+          <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
+          <div mat-line>
+            <a target="_blank" [href]="res.link">{{res.local ? 'Скачать' : 'Ссылка для загрузки'}}</a>
+          </div>
+        </mat-list-item>
+        <mat-divider *ngIf="!last"></mat-divider>
+      </div>
+    </mat-list>
   </mat-expansion-panel>
 
   <mat-expansion-panel>
     <mat-expansion-panel-header>
       <mat-panel-title>Образовательные ресурсы</mat-panel-title>
     </mat-expansion-panel-header>
-    <p></p>
+    <mat-list>
+      <mat-list-item *ngFor="let res of resources">
+        <mat-icon mat-list-icon>language</mat-icon>
+        <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
+        <div mat-line>
+          <a target="_blank" [href]="res.link">Ссылка на ресурс</a>
+        </div>
+      </mat-list-item>
+    </mat-list>
   </mat-expansion-panel>
 </mat-accordion>

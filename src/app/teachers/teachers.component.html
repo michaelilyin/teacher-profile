@@ -10,7 +10,7 @@
           <mat-icon mat-list-icon>library_books</mat-icon>
           <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
           <div mat-line>
-            <a [href]="res.link">Ссылка для загрузки</a>
+            <a target="_blank" [href]="res.link">Ссылка для загрузки</a>
           </div>
         </mat-list-item>
         <mat-divider *ngIf="!last"></mat-divider>
@@ -29,7 +29,7 @@
           <mat-icon mat-list-icon>library_books</mat-icon>
           <h4 mat-line *ngIf="res.name">{{res.name}}</h4>
           <div mat-line>
-            <a [href]="res.link">Ссылка для загрузки</a>
+            <a target="_blank" [href]="res.link">Ссылка для загрузки</a>
           </div>
         </mat-list-item>
         <mat-divider *ngIf="!last"></mat-divider>
