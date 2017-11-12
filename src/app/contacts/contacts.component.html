@@ -1,2 +1,24 @@
 <mat-card style="overflow: hidden; text-align: justify;">
+  <div class="parent">
+      <div class="child">
+        <ya-map [latitude]="51.667272" [longitude]="39.209604" [zoom]="14">
+          <ya-marker [latitude]="51.667272" [longitude]="39.209604" [balloonContentHeader]=[balloonHeader] [balloonContentBody]=[balloonBody] [balloonContentFooter]=[balloonFooter]>
+          </ya-marker>
+        </ya-map>
+      </div>
+      <div class="child">
+        <p style="padding-top: 0; margin-top: 0;">
+          <b>Адрес школы МБОУ СОШ №37:</b>
+          <br/>
+          <span>394036, г. Воронеж, ул. Пятницкого, 67</span>
+        </p>
+        <p style="padding-top: 0;">
+          <b>Мои контакты</b>
+          <br/>
+          <span>Эл. адрес: <a class="mailto" href="mailto:asia-lisa@mail.ru">asia-lisa@mail.ru</a></span>
+          <br/>
+          <span>Тел. 8 (952) 552 - 99 - 08</span>
+        </p>
+      </div>
+  </div>
 </mat-card>

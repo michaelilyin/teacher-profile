@@ -79,3 +79,9 @@ app-pdf.horizontal .page {
 .syntax .aplification {
   background-position: 0 -74px;
 }
+
+.map-container-inner
+{
+  width: 600px ;
+  height: 400px;
+}
