@@ -1,393 +1,50 @@
-## **§1. Звук**
+### **Фонетика, звук, гласные и согласные**
 
-**Звук** – минимальная единица звучащей речи. У каждого слова есть звуковая оболочка, состоящая из звуков. Звучание соотносится со значением слова. У разных слов и форм слова звуковое оформление разное. Сами звуки не имеют значения, но они выполняют важную роль: они помогают нам  различать:
+**Фонетика** - раздел языкознания, который изучает звуковую сторону языка, т.е. способы образования и изменения звуков в речи, а также их акустические свойства.
 
-- слова: [дом] – [том], [том] – [там], [м&#39;эл] – [м&#39;эл&#39;]
-- формы слова: [дом] – [дама´] – [до´ма].
+**Звук как единица языка.**
 
-**Обратите внимание:**
+Звук-это минимальная нечленимая единица речи, которая является результатом артикуляционной деятельности человека.
 
-слова, записанные в квадратных скобках, даны в транскрипции.
+**Звуки гласные и согласные.**
 
-## **§2. Транскрипция**
+Все звуки в русском языке делятся на гласные и согласные. Гласные звуки (6 шт.) - это звуки речи, при образовании которых воздушная струя свободно проходит через голосовые связки, они состоят в основном из голосового тона при полном отсутствии шума.
 
-**Транскрипция** – это специальная система записи, отображающая звучание. В транскрипции приняты символы:
+В зависимости от того, падает на гласную в слове ударение или нет, все гласные звуки делятся на ударные (характеризуются полным произношением) и безударные (редуцированные) звуки.
 
-[  ] – квадратные скобки, являющиеся обозначением транскрипции.
+**Согласные звуки (37 шт.)** - это звуки речи, при произнесении которых воздушная струя встречает различные преграды, они состоят из шума или из голоса и шума.
 
-[´] – ударение. Ударение ставится, если слово состоит больше чем из одного слога.
+От того, как участвуют в образовании согласных звуков голос и шум, согласные звуки делятся на:
+- **сонорные** (образуются при помощи голоса и незначительного шума): [м], [н], [л], [р], [м&#39;], [н&#39;), [л&#39;], [р], [j];
+- **шумные**, которые в сою очередь делятся на звонкие (образуются шумом при помощи голоса): [б], [в], [г] [д] [ж] [з] [б&#39;] [в&#39;] [г&#39;] [д&#39;] [з&#39;]; и глухие (образуются только при помощи шума): [п], [ф], [к], [т], [ш],[с],[х],[ц], [ч&#39;], [п&#39;], [ф&#39;], [к&#39;], [х&#39;]. [т&#39;],[с&#39;].
 
-[б&#39;] – значок рядом с согласным обозначает его мягкость.
+Согласные звуки делятся на твёрдые ([б], [п], [в], [ф], [д], [т], [з], [с], [ц], [ж], [ш], [г],[к], [х], [м],[л],[н],[р]) и мягкие ([б&#39;], [п&#39;], [в&#39;], [ф&#39;], [д&#39;], [т&#39;],[з&#39;],[с&#39;],[г&#39;],[k&#39;],[x&#39;],[м&#39;][л&#39;],[н&#39;],[р&#39;]).
 
-[j]  и [й] – разные обозначения одного и того же звука. Поскольку этот звук мягкий, то часто используют эти символы с дополнительным обозначением мягкости: [j&#39;], [й&#39;]. На этом сайте принято обозначение [й&#39;], более привычное для большинства ребят. Значок мягкости будет использован, чтобы вы скорее привыкли к тому, что этот звук мягкий.
+Согласные звуки могут составлять между собой пары по ГЛУХОСТИ-ЗВОНКОСТИ ([б] - [п], [6&#39;] - [п&#39;], [в] -[ф], [в&#39;] - [ф&#39;], [д] - [т], [д&#39;] - [т&#39;], [з] - [с], [з&#39;] - [с&#39;], [ж] -[ш],[г] - [к], [г&#39;] - [к&#39;]) и по ТВЕРДОСТИ-МЯГКОСТИ ([б] - [б&#39;], [п] - [п&#39;]. [В] - [В&#39;], [ф] - [ф&#39;], [Д] -[Д&#39;], [т] - [т&#39;], [з] - [з&#39;], [с] - [c&#39;], [г] -[г&#39;], [м] - [м&#39;], [л] - [л&#39;], [н] - [н&#39;], [р] - [р&#39;]).
 
-Существуют и другие символы. Они будут вводиться постепенно, по мере ознакомления с темой.
+Некоторые согласные не входят в эти пары, они называются непарными: звонкие [л], [л&#39;], [м], [м&#39;], [н], [н&#39;], [р], [р&#39;],[j&#39;], глухие звуки [х], [ц], [ч&#39;], твердые звуки [ж], [ш], [ц] и мягкие [ч&#39;], [щ&#39;], [j&#39;].
 
-## **§3. Гласные и согласные звуки**
+Из-за своего звучания звуки [ж], [ш], [ч] называются шипящими, а [з], [с] - свистящими. Звуки [ц] и [ч] называются аффрикаиами. так как они представляют собой слитное сочетание звуков: [тс] и [тш].
 
-Звуки делятся на гласные и согласные.
-<br/>
-У них разная природа. Они по-разному произносятся и воспринимаются, а также по-разному ведут себя в речи и играют в ней неодинаковые роли.
+**Сильные и слабые позиции звуков.**
 
-**Гласные** – это звуки, при произношении которых воздух свободно проходит через ротовую полость, не встречая на своём пути преграды. Произнесение (артикуляция) не сфокусирована в одном месте: качество гласных определяется формой ротовой полости, которая выступает как резонатор. При артикуляции гласных работают голосовые связки в гортани. Они сближены, напряжены и вибрируют. Поэтому при произнесении гласных мы слышим голос. Гласные можно тянуть. Их можно кричать. А если приложить руку к горлу, то работу голосовых связок при произнесении гласных можно почувствовать, ощутить рукой. Гласные – основа слога, они его организуют. В слове столько слогов, сколько гласных. Например: _он_ – 1 слог, _о-на_ – 2 слога, _ре-бя-та_ – 3 слога и т. д. Бывают слова, которые состоят из одного гласного звука. К примеру, союзы: _и, а_ и междометия: _О!, А!, У-у-у!_ и другие.
+В речи все звуки стоят либо в сильной (произносятся более четко), либо в слабой позиции. Сильной для гласных звуков является ударная позиция, а безударная - слабой (ср. до&#39;м - дома&#39;). Для согласных звуков сильной является позиция перед гласными [а], [о], [у], [и], [ы], (грибы), а слабой - в конце сова (гриб - [грип], позиция перед звонкими и глухими согласными, в которой парные по глухости-звонкости согласные не различаются (проезд [проезт]).
 
-В слове гласные могут быть в **ударных и безударных слогах**.
-<br/>
-**Ударный слог** тот, в котором гласный произносится ясно и выступает в своём основном виде.
-<br/>
-В **безударных слогах** гласные видоизменяются, произносятся по-другому. Изменение гласных в безударных слогах называется **редукцией.**
+**Слог** - это минимальная единица речевого потока, он создается единым дыхательным толчком. Он состоит или из одного гласного звука или из сочетания гласного и согласных. В зависимости от того, на что заканчиваются слоги, они делятся на открытые (заканчиваются на гласный звук: мо-ло-ко) и закрытые (заканчивается на согласный звук Мур-зик).
 
-Ударных гласных в русском языке шесть: [а], [о], [у], [ы], [и], [э].
+**Словесное ударение** - это более сильное произношение одного слога в слове, служащее для фонетического объединения этого слова.
 
-_Запомни:_
+В русском языке ударение зависит от силы выдоха, поэтому оно силовое и динамическое. В русском языке нет определенного зафиксированного места ударения, оно может падать на любой слог (разноместное ударение): ма&#39;ма, соба&#39;ка. Русское словесное ударение также является подвижным, так как при переходе слова из одной формы в другую может меняться и место ударения в слове: стена&#39; - сте&#39;ны.
 
-Возможны слова, которые могут состоять только из гласных, но согласные тоже необходимы.
-<br/>
-В русском языке согласных намного больше, чем гласных.
+Если слово многосложное (состоит из нескольких основ), то оно может иметь несколько ударений, при этом одно из них - главное, а остальные - второстепенные: ки&#39;нокарти&#39;&#39;на.
 
-## **§4. Способ образования согласных**
+Служебные слова и частицы обычно не имеют ударения и примыкают к самостоятельным словам (спереди - проклитики, сзади - энклитики): под две&#39;рью.
 
-**Согласные** – это звуки, при произнесении которых воздух встречает на своём пути преграду. В русском языке два вида преграды: щель и смычка – это два основных способа образования согласных. Вид преграды определяет характер согласного звука.
+Иногда ударение может выполнять смыслораз-личительную функцию, например, за&#39;мок- замо&#39;к.
 
-**Щель** образуется, например, при произнесении звуков: [с], [з], [ш], [ж]. Кончик языка лишь приближается к нижним или верхним зубам. Щелевые согласные можно тянуть: [с-с-с-с], [ш-ш-ш-ш]_.  _В результате вы хорошо услышите шум: при произнесении [c] – свистящий, а при произнесении [ш] _-_ шипящий.
-
-**Смычка,** второй вид артикуляции согласных,образуется при смыкании органов речи. Поток воздуха резко преодолевает эту преграду, звуки получаются краткими, энергичными. Поэтому они называются взрывными. Тянуть их не получится. Таковы, например, звуки [п], [б], [т], [д]_._ Такую артикуляцию легче почувствовать, ощутить.
-
-Итак, при произнесении согласных слышен шум. Наличие шума – отличительный признак согласных.
-
-## **§5. Звонкие и глухие согласные**
-
-По соотношению шума и голоса согласные делятся на **звонкие и глухие**.
-<br/>
-При произнесении **звонких** согласных слышен и голос, и шум, а **глухих** – только шум.
-<br/>
-Глухие нельзя произнести громко. Их нельзя прокричать.
-
-Сравним слова: _дом_ и _кот._  В каждом слове по  1-му гласному  звуку и по 2 согласных. Гласные одинаковые, а согласные разные: [д] и [м] – звонкие, а [к] и [т] – глухие.  Звонкость-глухость – это важнейший признак согласных в русском языке.
-
-Многие русские согласные образуют **пары по звонкости-глухости:** [б] — [п], [з] — [c]  и другие. Таких пар 11.
-
-Пары по глухости-звонкости: [п] и [б], [п&#39;] и [б&#39;], [ф] и [в], [ф&#39;] и [в&#39;], [к] и [г], [к&#39;] и [г&#39;], [т] и [д], [т&#39;] и [д&#39;], [ш] и [ж], [с] и [з], [с&#39;] и [з&#39;].
-
-Но есть звуки, у которых нет пары по признаку звонкости - глухости. Например, у звуков [р], [л], [н], [м], [й&#39;]  нет глухой пары, а  у [ц]  и [ч&#39;] – звонкой.
-
-**Непарные по глухости-звонкости**
-
-**Звонкие непарные:** [р], [л], [н], [м], [й&#39;], [р&#39;], [л&#39;], [н&#39;], [м&#39;]_._ Ещё их называют **сонорными**.
-
-Что означает этот термин? Это группа согласных (всего 9), имеющих особенности произношения: при их произнесении в полости рта также возникают преграды, но такие, что воздушная струя **,**  проходящая через преграду, образует лишь незначительный шум; воздух свободно проходит через имеющееся в полости носа или рта отверстие. Сонорные произносятся при помощи голоса с добавлением незначительного шума. Многие учителя этот термин не используют, но то, что эти звуки звонкие непарные, должны знать все.
-
-У сонорных есть две важные особенности:
-
-1. они не оглушаются, как парные звонкие согласные, перед глухими и на конце слова;
-2. перед ними не происходит озвончение парных глухих согласных (т.е. позиция перед ними сильная по глухости-звонкости, как и перед гласными).
-
-**Глухие непарные:** [ц], [ч&#39;], [ш&#39;:], [х], [х&#39;].
-
-Как легче запомнить списки звонких и глухих согласных?
-
-Запомнить списки звонких и глухих согласных помогут фразы:
-
-_Ой, мы же не забывали друг друга!_ (Здесь только звонкие согласные)
-
-_Фока, хочешь поесть щец?_ (Здесь только глухие согласные)
-
-Правда, эти фразы не включают пары по твёрдости—мягкости. Но обычно люди легко могут сообразить, что не только твёрдый [з] звонкий, но и мягкий [з&#39;] тоже, не только [б], но и [б&#39;] и т. д.
-
-## **§6. Твёрдые и мягкие согласные**
-
- ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAAX8AAAGfCAYAAAC3ANLlAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAawZJREFUeNrsvQ14VdW5LjpCEiAEcFFAQLAEBX/bY+jTVltFQ9Uq3t0airW7+7ktifvpObvbH6D39Fh1tyHtVmt7zgb8aU/bu0novs9ua7XEdl+0ViX+tLXaW+Ju/QUlVpCoIBECCUkgd7xjjbEYa2bOteaca865VpL3fZ6ZtdbM/PnmGGO+3ze+8Y1vCEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQRJQoYxFEh6GhoZT8qJNbrcch7WVlZe1FlKFbbh0JyFCj7180GQiCyI0KFkEkZFsvt1UguwPbtonD27eLoz09WceNnzNbVC9c1CSPx882uW2SBNgWoQwNclvpQwaRlAwH5eYEZJi6eDGO77ZkoCIgCFr+I4r414L0JdGl9j64Rbz7xBPDCNeJCXPmiGlLlojZV18tJsye0yl3rQlLwJpwV9syvLNlS97zXGRoDEvAtgz7n3wi9c6WB4X89CXDzGVXiBlXLIMMHbocqAQIguRf0qQPd0aLtK5rX79zgzjgYuH6wcwrrhDzb1glyidPbtME3B1Qhs3y3jW7N/5r0WVAOaC3EQZQQvOu+XvIsF7+bA4iA0EQJP+kiB+ujXW7N25M7ZKkWygk4YlTb7lFWuIXwgJfLomvw6cMLSDcrnvvjVKGDq0AiiLDabd/Gy4h3HspFQBBkPxLiviP9vS0vHrrrb5cG0EAy3fuNdd0a+LryCfDKzd9LbS174VTpAKYuewK3zK8cP11oa39PDJAES6mAiAIkn8pEH+d/Nj658aGyAnPAO6P+TesAuEtcCM+KUO9JN3NcZCuX/KNk/gdMrAHQBAxYhyLwBfxY1Bz82u33Rob4QFwn7zz4BZ1LxcZaoR2s8Qpw2vpXo26l4cM69DriFsG2aupdZOBIAiSf5JoSUeybIn9Rq9v2CCOdO2pk0S72imDVA6JyAC3lpShXvv1h8kQtbvJDVAwsocBGerZ/AiC5F8Mq78OJARCTAIIFX0tfa8m3eMwMtRFMcDsV4bXN9ypZLDKoR5KKVEZZC8HPQ22QoIg+RcDq+COyRe/HyVgWSNuX6QnTSkSTloGDGgjhNOy/pt2b9yYqAzo5UiFU+PSAyEIguQfq9VfIz/q99z7s8TvrcMnV0EGWP3FkAGTxrQMtVKG2iRcTk5A4Yj0rGGCIEj+iaEeFnCS1q5tecv7Qvk0vVskGUD2IH0jQzGAWdMSdcYFRhAEyT8JXBRmcBMx+0hfYIDv2BeY+NKE23AwgAyYsYvcOX5/58OBbX9KK8Enngz0/NOWXOh6T0zmwm9sfgClp+ugjs2RIEj+SaE2DPnPveYaMWH27OPkL79jX1CYcMogMsxYBqL9kO/f+WXYYSsB38CMYUPw9j0xi3f2Z68OdC2t/GrZHAmC5J8UauKMZ/dL/kf27CmaDIb0g7idEBGEMQsnyaMHhB4AoniCjB8c6VLPfw6bI0GQ/McMiuHrH64Agvd+MECtMnda7h30fqDQgl5PKz/6/AkiQjCff4njUBF7HoUqLVj3p9x8i/ptfP6v3HQTK5UgSP5EPgQZnI2tkUyeHPicSYsWqVxFIHt8mkHr+atuUK6kUujREMRYBt0+eVAegvhGE+C6AZEHLbPTbr9d+f3t7KcYCzh6sEcNBgdVJBKdbI0EQcs/KXRUL1oUKuIHC6QMauvWWM7Yp1MW+LT6P5QhvyADz1gda4ruMUj5JYHPzvodJHR0wuw5GSXgd+AZ5A6Sd3vWV26+SXywpVX1BvyuA6BleJ3NkSBI/omRvyTgwOT/4vXXuRDyFYEtaE3Y3VMXL075JX8Qbj43zZGuLt8yYLlHI8M7PsgfVj9I3R6rgEzGzQMFgrTYdihsfiWoyqGdzZEgSP5J4QFJfg1Bk5m5KQtY8caK9gOQqCa9DdOWXNjk10qOMjTVcvlIGZY0+QnPtCZlecoEBeC3F6Fl6Ob6vgQRLejzz412EE9Qi90NUCBuPQIvvO/CC421ux5KwJ4xnBSwwLoE1vZtxYzdIstAEATJPxnoVaRa4Z9OGnpG8CYjQ5gZwoUAPQ/93BukDJ2QQRNxMWTYxNZIECT/pLEB69pGYf37BQhvwuw5HZJ0W/WuZhBvkjLMufpzIN92y93SrORK0Pp3kYEgCJJ/YtY/rN4Np958SyL3s5LArXHI0JyUDFAyuqeRJYMk4vWnJC9DI1shQZD8i6UA1koy6jjllniJT8XH33Y7Ptc7rd0kZdBKplnes8Px7+apixd3hMlQGrgcbr9dKR+t+AiCIPkXDUvh/omLfEF4Z911NyxeuDnWeBy2HDL4TYdcgAytUDYuShDjD43SIo9dhgmz50CG9Wx2BBGTUcsi8A+saCU/tr7z4JbUaxGu6WuRLiztpZpkc8qAhdSDTBgLonygZPzIsHvjxlSUa/rC5YWej1Y+dPcQBMm/pBRAjfzYfHj79lrMVi003TLCONGbgKWr3RzdPpVQy4Ft22pfu+3WgmVAGCdm5UoF4Jt0tQyb9z/5RA0Wty80V48lw/ocPR+CIEj+RVUASC/cJLfVWGMW6YuDkh+s3Pk33ADSA9k3B3VxGBnkfVdjAlgEMjRKGdpCyLBO3rchrAxQfnOv+Xt8hpKBIAiSf7F6AevkVv/Og1sEljrMlbHSLGaSXtlKkV2bX2s/hwx1WgnUYdnHEDLAd7Q+ahn251jzFzIgbYQOX41EBoIgSP5hiGuVSK8RywVDRh6gQDdwLgBBkPyDEH+L/GhgMxgVaC20F0UQJH8SPzFCewGS/JezGAiC5O9F/KtF2lev0P30M+KVb90mel54kS1iBGHyWWeK075+s0id91F79xrODyAIkr8X+e8X2r//zsOPiD//t2vZEkYwPviDe8TMT16S0eVyW0D3D0Hkxpib4SuJv8EQ/+CBA+LFr3JB8ZEO1CHqUgN1W89SIQiSvxMXmS977ttskwYxQoE6RF1auJKlQhAkfydqzZe9v3mELWCUwFGXtSwRgiD5e5L/wRdeYgsYJdj/9DP2zxqWCEGQ/HO6CwiCIEj+BEEQBMmfyI+J8+aKBauvF9OyY819/58gCILkPwJRBXJfdZ1InXduqP8TBEGQ/AmCIIhEUMEiKFLBT50qZn7yYjFx3jw18IyZxn27dmf+j9QFlVOneJ5voltwnSlnnZHVs8C17FQV5pheef3BAwcz9+3btSsrPt4+zpbFbT/cWAPyWl4pMYz8jigc5QbDbFxcE/d/5+FHOfBOECT/sYE5Vy0Xi75+syJikOlkSaz4/eJXv5YhY5ecNVl4bMHp6vPka1Yqt5IN/MZ1cD0AxL34J/+mlMIUScogYIOTG1eKZ/6P+qzjdm64W+xcf1fmGLf9+I2cSH/6/Bdc5TPyGzkBPCPkhcLAs6eknIu+fkBe44vMq0QQJP+RiWnnSqJeff2w/RPnzh1mEZ/53W9nkTOs4A/95MeKHJ2W8DYHueIYXMOg++k/iG1yw5wFnIdrnfnd25WCwcQnEH5GRknGIHCjYHAtHAdCfmPjpljLB/fAZis4PAeeG4rCS4kQBEHyL2nAyk35iOiBpZ3OKfS1zD78fqNlk1IKcMnYrhin2wQWs5v7x77WLnktuFZArjb5v9Hy4yyS3/6t2xT5z7z0kvjJXz43ZLGfDdY+lB1kQG/EdjURBEHyHxFwukpsaxsuEgOQOwh8gaOXYHoI8MUH7nXIe8xe8RkVWQQXEqx/P4CigOvGqbQgix2aavc0so7TYawGzrEG+3xD7s7nrtIuqCqSP0GQ/Ed1gWtiVm4iB0DEGAQNAuNHB3HuuX+z3H6h7oH9YQFLHFv+Z5mSeY6JOqQVPQj0KGyYgWscM024P/eAo0dDEATJf9Sh54WXIvFxg0xB/M6B10InlME10yWViG25uykT53N8SPZw1PhBi7sLCcrJrXdEEETyYJx/wjBuFr+umVwwLpP9f3gmdC8EstjjAkDf7t1qLMFsfiNxjBxV87IHuc24xMxLL2YDIAiS/9jEHm1R/5cf3JOlAPA9aBqIXhNzb7mQcJ15jSvdyX5K9rwBY81Hkdoa9zVyuGVLRW/CrQeB3gtW4iIIIlnQ7ZM0+UsSTJ17rvKpX/jcs6onAJhBV4Rt+gX8/LDaEdnz8ScfU79xHS9LHS4ZHIvjQLrYII9jIRTfwODyh/RgthloRhST26QtjANgvgBkwLPDZYQxA6/BZIIg4kX5WHvgtRLmOyJ0osDgwYMq3t4rWsX5f1ja3cpFUiYqtfUPEn/5n9aKA9ueS59UJkTPiy9llEMGjv3vPvGUONbfr64zIEn3te/8L+Vzt+8JN8ycqz6jSB6KYcLMmSriaOeGu4aVgdezDNtfViYOdDynXETY3n3iSSl/03F5HXIeO3JE7P73n6pjx02YIMrlduxIv5IV5w1GMOBrRxI1S/D1JghvjLkF3IckzHd79ulohgk39QpHHS34xM6XjzdsCb7eBOEN+vwJgiBI/gRBEMRYAAd8xwAQajlWXFwEQdDyJwiCIEj+BEEQBMmfIAiC5E8QBEGQ/AmCIAiSP0EQBEHyJwiCIEY4GOcfE5Cw7LQ8C6ogF/6HrFW+DJCtEzlv7ARt6cVSrlcrgSGBmlm8xU7XgGsdlOcgd5BZ6ze9ROSPh6V1wP+nuCRVe+Vbt2Xua67nXJzFeQ07p78fOQmCIPmPGSDbJoi4x5HuGPsNQaoKmTIlva6uJM/fLblYnQNC/ej/26aOe/GrN6l9SNuMlbMAQ6y4FrJr4nysjfvObx4Vc1YsV8cpJWCt0wvSxvEm8ZrJ8mlW3TLXywVzDZv4/chJEATJf9QC1rNtESPpmNcKXiBLmxiRQROEiRTImJ0LCxtZL//0+S9m0iVjP4j25MYvZp+rjvtCJvsmCP/jTz6qFlC3yb9Ck7yRBxkxDUmHRRA5CYIoLujzL0FMPvMMRZ4HVc77qSoHP1I+O/Pkw7JXi6hY1jdI307HjHPQCzCWfeYe0mr3u0KXLysioJwEQdDyJ9lbi6LAIgdJG7eJIUwsgoItDJBDH0Bef7OQC9Drsf6ADbh17FTJIHekhnYqDvRSCpWTIAiS/5gCXCX2Orzw05/53duzyNm5qLoNt2UTc8EolG4fa//2WAO+UBrpQd57xO+WfML1+CjlJAiC5D+q4fT5wzePJR7hg7cjbfY/HW6h9olzsy19LCNprHhfism67+Qzz1SWvdOFYyuqsHISBJEc6PMvYVTqUElsiP6xffYZMs6zBm7aF3+xsuBxHfMbUT59Ptw+XhhwLLtYqJwEQdDyH3uVMHVKxpIGOSMyR/UAWtLRObD+P/iDe1TUjPG347gZl16iwjrtXP2T9SLp5hj0HvC5c8NNGbdNhV7v117zdtq56fvPXvEZZcUbxWDLljrvXL34+ouug8VB5CQIguQ/5gGreLE12Quk+ef/dm3GLYNP/AZxL7ImjmFAGD52Jwzhm2Ne/OrX1DVA4ojIAfBpvtsAScNnb8jfls1EDnlN+goqJ0EQxQMXcB+BisJMxHL61hGVA3cOYveNtY5BVhN6mW8hdxPrv02eX6jfPpeccYELuBMELf9RC7+x+cUedI1yDgFBECR/ogCgFwCr3iu+f899v5A9hz8wJJMgSP7ESALcOX27dnn+H+6fXD0C5+xggiBI/qPz4adOHZaKYESTP3PnEAThE2Mxzr/DfDEpCYiRD8eks06WCEGQ/D3JH/HnxOiAoy47WCIEQfJ34nHzBTHtJh6eGLlAHaIuLTzAUiEIkn8WysrKWuVHtyGN//KDe9gKRjiQBM9S4qjbNpYKQZD83dBsviBlMdIpM9f8yAMmkqHuHDOVm6WC72bpEEQeQ3isPvjQ0FCL/GhgExhVaJPEv5zFQBC0/L21XllZo/xoZRMYNUBdNrIYCIKWv98eQJ38WCU3fKbYJEYU4N5pl9sGqczbWRwEQfKPHU82/dNa+dHEkigYzUua/3kti4EgkgUXcyEIgiD5EwRBECR/giAIguRPEARBkPwJgiAIkj9BEARB8icIgiBI/gRBEATJnyAIgiD5EwRBECR/giAIguRPEARBkPwJgiAIkj9BEARB8icIgiBI/gRBEATJnyAIgiD5EwRBkPwJgiCIMYIKFgFBjEwMDQ2l5Eetx787ysrKullKhBfKitRoa+RHndzO0Y3X2Yjb9efjaMT4nXRD1i9WvdwukpuRdxje69wpjnR3q09sfd3Jvm/Vs+eI6WecKT9ni8ny+4RUatgxkK+ve7+UrzMjZ9KAjCfULFByQuaKiRNdCUtunbreUecdRWiX9Va7dCPWbi1nhyVndxHaJNpjTd+O7eJoT8/wdlG7WOiyhJwPyK2NyoAoCvnrhtsgt5WysdYe6tgm+l7dLnrkJ3BIf5ZPniwmLlykPqvkZ/U5i01DbkMjlg24NWY58XKtxEsGmQ49t03JONDVJfq79mQda2SdLOWbeOoiMfWCJYpY35bHv6WfJ5bumiTOk877uJgl71tRUSEOPPWkkhPyHXK5L2QcD9KVZTn1ggvFOKkg3n3pRfHX9sdiVVYge8j4Pkn8g7veUOUIOft27BhWloawUOemLGX5grw2yK01LuKyCHWVaZeQsVeSqhuxjpeKqxKKVso69fwlqmwhn9w2SRnbY1RKTZBTypTa/+sHVVlCvlwwbXPaZctsOZulnJ2kPiJ28tcv12q8XPLFSu29/15FVkEAkgVpnbjyGpBYp27ArRHLCUuqpb+rq2aflHH/Q1tcLSq/cg5Jgga5RqkEDOmfdN7HxOE/Piv2/3pL4LI0pDBjxdVi2uXLlKKKWgnAsj9FXnvyjJmqHPfd/3NXss8HKADIKZUChNsg63xtxHWOdtmEdglChaxBAWWAcpwu5ZT1367bZnuE7w5If/X+hx4Ub2/aGKocjZxol5BVK4E17AmQ/OO2olvwcr15z515LRW/hDDn2lVQAujONhbqGtAvWIsk+vo9UsYwBOCGaZdfoV623r5esb3tFwWTK9wmi+o/I45Ii33XHbeFJgGnskJZTqlbqhTAm0//vuBrniKfG8oJRLX3vnsDK1BXZSKt11myLOVnp67z9gLrvFYr+tpdd9zq2lsKU5YzrrraKIH1Wgl0F/ruSOWeQruMor6NEphz7Q14j7p1WbaRBkn+URM/CLUBL1cY6zQfZjVco8hVN+DWAkhgK14wyBkFUTkJATKm/ubTSgHsk8QdllBnfeCDIq6yBLnOu/EWpahe/Om/i8G+vuC9iVRKnPm3fyfKZRm+/vWbIyMrGyBXlKcsV1it60PWeQNIFcrprdaNkcsIcp13480o09DGiZRxrWyLTVEaI25GFOocikrKuIZUSPKPqqu6VVr5ta+tuT5yQnW6L05ZdxcaMHzCjWFIAFZ0XC+Y3QuAtfXaIw8HcgPBzQNrv7qiIjZCtRWVIoOFC8WfJSkGUQBw83xQKuOD7VuVgooTqPP537odPb8wdb5OtsfVr3/9pkisfR/GCazrpUEUAIwm2SNpgIxR9JTzKar537oNZRq4LAmSvyvx73/owdo992yIlfgLacAgfilbS1yWdC5FFUQBLP6Hf1SWdNxK1AYUwPjaWt8KwBD/O//6Q+XmSQJQVCjLgHWueqIoy7hJ1Vb6shfgWwFARilbQ5L1HaYsidGBqCd5bZZkWhuHC8ULsIbxssBagmXn09WTKPEDIBzIecoln1T++3w4TVr8SRM/gHLp7+hQhO4RjpnVM8Fx7/7s3xMjfuCoLhcQpc86b0ia+AH0KGXPUhlEut3lknG1kTHJ+naU5VpSIsk/jNW/Tjaguri7/V4NGN1kdOn1QFnOnglcPUkSv60A4MeFK2eiSzy+AQZMU9KiTpoIbAUgurrUWEMuwMcPV08cvnM/df6GrEcfda6UfdLEbysAqRhVUIFuf24y1smPdcWqb6ssm7QsBMnfN/HXpX2pNxel8Rpi1YrH8yUTOnoibh9/PjLo/o9fKgXg6h6SSgGkq5VZ0eTE/acvXOTZS3l/3SfEhMFBAfdesZCvzvW+zXsiijQLC9z/UMc2KKEmr3ZZbBlxbwyC53l/CJL/8MZbSAxyVIA1D3KHFeWhoOqL0TNxAmVVNbFKTYByAkoB/y8mERhrEGUFReR0/0BBoXeC8N1iKqh8dS6xWpJuTZIuKe/e1G1KHqf7B66WUpERMkAWkZ6XQ5D881r9DZKoSqLxGisLvlM9K3KYdVVssjLECosZ1rMNzIjFxKhSKUsQ62DnTjWxzGn1w90Td8RMkDqXyKpzbb2uejP9v6IDhpG2rNc5ZXxr08aSIQRdXqto/ZP8/aCpVF4w85Jhhq7dxYZPGDN3i+nucSPWob3vZFn/769bqmQvBQVlAGKClW9b/SdKmd8uIcJCnWMGrMOtglmxqWL3oJyWtazbOktJNWACZKkoUQDlpXtStP5J/jmtfkWqUTVeTOJB6GYu4P+Ioda5SlyhicC2BFdqhVBS2Hv/zzPEClL1Y/VjQta0PAOxACbxVLu4lfKdj/+hHgxQt8jLY5QU8vRAcRXbxeeEVkYNlsW6CukvSglQ6jrQwCipVXtLsF3qcltJeiT550JkpGpyj+QjFZAaptAP5DgO19AvWb1J3BW11Q8FBFn8AHHUNqEeV1JbxMTJU7Q1/SElcz6r3yTqygekbXC7Vr7zMRkNsd/ZZPCgIn313PL8IKQKZYNyQnk5FTvug/1+z8lV5qhzbeXXa6MkMosahoYfhevHONFkDxlrZf3URB115qX0c9UP5LXrPK3cu2ryhacSY5v866NqvGi0fq6FTIp+XCMHfquudaXQ2TmjdqVAASE7pd+X0evZIBuIdfoZZ0iZn4iMrEwXPggMaTh7H5AdUT9QUlBWfuoJZHnWrx4SJyGPzPkXepTNhSqDp59z8EwwDnLVI5SUrvOLDjz1RGR1PSOdr8d3O85lnKBOoJhg9ccRbuyl9HM9G7K9Os/RirOeFDl6EXoxF0TP9LukOfaCSXxlGhrI2bbGYY3aA1+mJ4BUxLgPrE28OCAohCHmg268dXLrQIreqK0rvNx+nh3PCzeU17EohxOuXK5myr7uYamasjAEZFIxoGzcslGiLG3y83s+FKtbNlNjVWOg149CQR2hB7HjS405ywj300o67zknyDJX6ZZzWPM9x+u801w3qvr2O8bhxzjBM4y/fFkDUppHiTBKH8+G+QXDZJTvzLTLl11EiiT5u6HWb7faTCEHiYPgDRkZ0sH/K+U+YwmZVAgqtbIkfbgqYKEg9HC7JAc/lk2/IucuEFxDT4DuPwioyuqy4yVwTmKCVaqtzIxbx9m1N88C6zaXsoKc86RV7bUoB8pmgbx+tyyH/b/eprJbjoP1LXsJ5fIT8h7tOZhljaO83kiHFgY6H8/kZbH2yl7O++qWqtm8ea3+y67QSuSgInWvtRBAPCb0Nt85INV8UTGa9NTCQPkI0KRiHl4fXVnK1Kno3dxUANoInsmPcZIm/WVqzQA/ihT1aRsQxpDqcShDW+mb53Meg/PQzvCMeDaUk9t7rGWrIUWS/N2QGnjLn9WP7jwI5/Wvp1OHHBLbsixTEKRNXiAo/Daki8aJBo9GezSAVYOXVpJ/CkTiFyB+09MwFjLua7tCqh3RLviNcEO8MFU68RiUFF6slz9/lZ8eiqdCQ9kdk4SYKYvabaJau2KUojx1Yaa8zEuPsjbkF+T8XISJuka8vx/Cqlq4UJXhwh+1qjqAMsf17TkWxhVmnjvfOW+mJ0r56vHh3HwGAhZkgQGSVY9YOOgckUX+qudmKfq00fKgMG2/claaZE35+jFOTBn6eR4QP+45rnqyCWnNZDcVYmPWNWylb55v6vnblUx27wrn4BnhtsTEzByKlOQ/ilGIz/+iXp9ErLr3Dh+s/YKku/9PZFlbTv93GJ+9kS9oZApebLwgboQIYgGZOq/Zqy2osDH6Xq4p2zXi5TayBxfTYydPhD7fu4fS5bsecD1Yt1B8cCnAlQO57EFT9J5sufKdE2TwNojbA6RtNrc6cBomAAwDc449+I2y8XPvoG0ZZY9yMG47jCn0Owwap9LPvOBynxnLmeE4r9+n65Ig+RfUiI8d6vF0CbkNiEYxQOt1z7xd7XPSERCwkuCOco5N2Jag7erAObD681nRhZBVfpeLu3yFIihJ2K62dBz+FqWIvJSUn3OShpeiLxRB63tAR6/B4ocSwHene86tPAH0bGatTEdN4Xm6A4a/crIXyb8ggMjRPXa1bF0sKxyfL94/CRjloReN8ZTXSZImVDGqskOX3wtQnsaac7P+gpwfd1kay3WqHrzNp+Dtc4qBuBRpGIDEYfE7XVX5ZIUCrdRpz8NMzONSjyT/goDuvV6QO8uqcnP5qOMluTpj0f24JqKCGeTFBp+zidHPZQkaVwD8shioRhc7iIWZSxYoHG+CuiLjEnGz/oKcnwtBSLhPj31kNbTq40rG6fLxc04xkE/RF9KjCNPzOqQXbXe2Py+XjwHao7MHSxCFkH/HZJ+TSdDo0HAxmAfXCAZRF/2oJRPx4SQf5L1BY0UUDY7HJ2K/w7hvzMsR3vq7IkNAKpoiTwiheiap0IKSlpHVreygcExZpKQ8IA+4pOBisgefIZ/Tbx3k/FwwxOxHCaCMbOVtFrY3/nE3JZXvnLjJNSmXj12GQdsloojcIom8XD4GGId64VOXh5KRGL0oJNrnvVzuBLeGi0ZalRnY25ixrJzdf/ze8aUG9X8Tix5m0o5pwJVqroD/lxhda+PqgTVlXrhcYZt2uCeeyW+q44l5SNUstmEGPlEO6TLcIQbe6hJm4RwQiR0uG/T8fIDbDit7VekonFwA2UABokygjFK6d4HNhE4675nrnEBKNMDs1nwun56Ycu4YRTpRRTjtiUTWqJPD6XbZTook+bta/lUBLSydfjfze875N3ha0iYWOYIG3CZ7KPV+ScRtwotN0m5d6z8vvaAgIsDC7phBa8JZ3crCRBGZOHNn2eSaIe3n/PxyLhTvSjntGbleMArHKG8omIxryjFHws85AesbPupOqQRyzkMxK6tl95IeFO/lmZ/hXBTG7Tp55dRl6EeR2jLZQOjrsRxK30sur+s5oXv1naRIun3c0A4rq5DuIXoAUU7Dd5IhFJTcHvByqQS1ruKQFbK917lTHNIDxWGhCD6mJGEmUuSv7Y/5ltEobxVCaZFwPiXldo5faMKCtdqeL0oI93Lew8xkzqXonQPVbtfx2TtZ7yeSycpZNIzc8T+v8vSSy+t6bu1S4nFSJMl/GHQUQEeuwcR8wEseV/pinRsGRNBWqJJSFpO0VuNIY4yX973OTrV55cBxlpm7RbfF10vtdX4+skLvpK+7WwwODoaOZIISiXPRH01YD4C0CmmXaCtxrVAGxSJ7Nt3y/VmT/l5YVFscSh8yaQXVRook+XthUzHjsH1Y/pu0kmrzm5Uxl5sgakUFmfp6Diqr/y3tDy/FgbYZKz6rXD5KeUDO88MRK0g/roVqQFi6zttknbeBYMMO/JoJfnFAD2obUm11SzERyCjxqfSDtctlphwZ5kny90QrXrhSiMl3kqok0Q7ZeDv0rgemBwi9TExOSQRvPv37NOFIYuzZ+44oxGKNxZqWFmDFvJOV5Q+83fEnRQ6lVufTpYJCe7QIq3VGidU5FLs2Qky3YtP0ABlDkwIG2y0ZCZL/cOgXrdWeBFUK0PJssORslZZgZ6HWf9SkOuGMMzOkCvy1fWtW9s1SAGaHQkEh0kf1gLq7pQLYJkqpztNJzFTdNlu7N5SaksJ8EVm37cYokZ/t+O221kPR6lutoTAbMraTHkn++dAsX7LuqELsonjBZOOF1d/q+Ncat4VKigXMdcAAqiFVAAO/vX29olTIAL06KKg3n/5d1n7IDWJNcuJdLuh6hdXfaSl8fG+ed+PNJaOgdO+z2dkuT1x5TUkoqRwyEiR/V+sfL9mGMJOw4mi82iJd4yJnG6wsLHZRCtbVgBjKuHxsvPbQg+oZik2sJqPp9rZfZCkoY/2jl3JyCRArFJTcut3qXGK9NEo6S0GZQgnJMl3vtKh1L2A90i+UqowEyT+XAlgryaoDZFFMssILlKfxNqKXUkz3D3pI7/vc34lX2ja7/h++fxArZt8Ws5eCuuze9UaWW8pp/R/VCqKYyl7fv9FtcFLvayy2MoWyhxLysqh15E9R3x8tYwetfpJ/GCwvJrHCoscLhBcpTy9lOSycYpDBRJ3rfyfSXeQIdwSxHuzeP2yRmCSJv3zhQmX158KLP/13MaVuqShGnVvKHu6ethx1Dr/6GpRlMZQpykYqHyih5XmiZ4r2/lgyNjLCh+QfxvoHsS6VxJp4AwZZyRcHVstSH3KiV9AIMkhSAZjVyV575GEVLpkPIN6jiuCS7QGgLEHoIHanu8cJuH/+3LpRzF71lUQVgFkZTpYpiL/RR52vh5JIWgGgTPSYw3Ir8izv+5Okm0rLCMJfmk9GYnShLOoLDg0N1cqPrW9v2phyLn8YBwmArKZesKRDN97uAHI2HO3paUEWzrizHcLVAxL3S/wGWDnrg7I7Xq5TH8Q1Ic6UJXpPk877mHhBEv+hABOxsP4w5Oz+j19mVpuKU4menO65+SJ+R523yDJscKZoiAMg8DnX3mCs6bag78/+hx5MYaJZnHWujSYSP8k/cgWw+cBTT9b4TRxWAAm0++hSe8lZLz9a9t53bwozT+OQE75U+Pjh6nkrZKKw0+o/I6bL50WumUMxJBszZYmeBiz5fBa/lwI4rX65EF1IFndbLLN4YaXqyJ71udx7eep8tfxYByUVx4QzyyDp9GPxe8iIBVS2SgVVi2UZo1ZU1rvToWXsJBWS/KNUAGjAsLTqo7SuzeLVOqqnGYPNBcpZAzn7u7rqoACikhPWPkgAUT0Y3D1UIBnOktdbIMnv8B+fVdZ1FORqlyUGmTHWUAjQU3l/3SfErA98UOWQB7lGoVDTA7s3m0HTxkKjUYxxIhVpDbJhRqVQLeXUJiLwn0s50bZXoRcQRVoMEw2nZ/AW/O4QJH8/1vU6Sa41aMBIjhaGENITeZYJPSMSL/+aKLuqcAPJj6ZC5QQBYOYu4uMLsfa9yPUUDM5JRYDsjMjpEsYqTMdzf1bJilnFGF+A/z4qnFCzQCqBpWLyjJlKCUDWMMQFBYpZujqUE5P21kc5IGnIVZJ/CmUZJqWDmbWLdomJhFEoJxfjpEluDShHLHwUVE4VDnv+hYb0WzXx09on+ScDTa6rJKHWovEiZzssrlykgO4pMjUiYZfJ2wISiDMO2cgpt4ycZnF2L4JSibC0jMjVg/h9hEiGcZ/46ranUuKk8z6ulMAxSdpQVJCzb8cO1/IEQZmyRC4mfMcsXSgmTCyLC1ACJ533MZWuWuXmlzL26NWo3BQr5EKaY5RlulwVmW6KmvRdeqimbdbYde6lWCGbkdNql5uC+PZDKgHIuRJyqlW9Xt2u5HQrS9Q1UkfrpIad1rtD0ieSJX9HI67X1oxaHNpJBshPjpzuGh3a6muL2OpD179ObvNB9C6H1OgtC0ZOt6iRI5KI+7r3J1qeIFg3YCUxqwyzABdUXIrJq8dS7TGDNYec3bruk0StaZN+y1Kkc94nTaiubdMDxSjHpNARduyHSJj8JeGCbFeC/OULlQLpw3rBy2VbrLCqQK6wrCamv0diuWgrb7WWoYbVTxAjGkiNPY3FUMLkb/vT4aJAbvwgvmrjs9Qpj+HyaQ7q+tEyrHOz7AiCGLnWv+6xYQxwPYujRMhfu1bWRRVJY6JT9KBvq67wbh9ygPhbhrk/Hn1UHHn5RXHkpZfEsQMH2BoIIknmwTbO+q5/l5UN3yeG7SsT1R+/WJyw/IvminALL2fBlgD5G8IF6UcV8meAAVaE1OkokJwTVLSrZ6ex+I8dPCj2fvs20SOJ/9hBEj5BFAXjLGK3yb1ck7/X/8cdJ/8JC88Q876XyZFFF1ApkL+ZSRnXpCQDPYsSXxtdUjgbWerkx1Z8H9y9W/x1xXKSPkGMAvLH91Mfyko8uJgzlYNVQeTE37dje8PLn78qVuIH0KPY/qVG9CpadE8jJwbe3E3iJ4hRhN7/fMb+WccSKRL5G+KPOw+NDQwc6/v5UgAEQYwe9P3ns/bPi1giRSB/nSgtUeK3FQBcTBLr9CAzQRBjwfL/My3/opK/ieoBASdN/AZwMSGTqPy6WQ/yEgQx6i3/LPJP0fhL3vJfB+KN28efD0ghjWRdIj2RiyCIsaAAaP2HQsHRPnD39Hd1tez4UkPRrH4bmBG86EcqpH8BZgPb0T69zz4jdjd8kbVOjCpUzp0rTvjCSlH1kY+KCWecwQIZG2gX6XxSrcW0/JviyoUfygrYsV1lkRTp3EEEMaqRkqQ//+FH5ecXSfxjCzBqEeSyM6yrqyDyh1WNlA1xr4QVFFBGEvX0/ROjGbNuvV3M+NpNLIixjRq5bQ2jACoKvPFK5OopNSBJnOwBpCYuXITsoZ1sH8RoQ/XFl4gp9cezGRzbtVv0rr9T9D/8iBhiqpJRjXHz5ooJV60QVauvz3QAtQJYECTzcaFun3okaYsKWOd2vEfqXwOzEDrylOeClutKNhVi1L38U6Yqq9/g6Asviveu+LQ4ct8vSPxjAEbRo86t+oYCWBeoHYUVAN0Mk5Y5CoDUseVb8QmrZCHff77IIr3aUR2bCjHaMPnii6UCmJJ+D+XLf+Bv/0+S/hgElH7v+rvsXQ1BXN2FWP61US4sDVL340LCCkXap58TUCJHe3pQEDVsJsRogu3u6du4icQ/htG3sVX1BCzUJ0H+NViIxRexX36FOP0n94kPbn1KnPWrh0wytixMveBC46pR/8dxOB7n4XwALiFY/X4HmLVyIvkTowoI6TQ4ct/9LJAxDrj7LPhOcVHIgO85WIHLV/ek56BKvwAyBoEv/FGL6Ht1R4bEjZ/f9CTwvx1falTWOxZwwViAWe/3hU9d7ltAyFct5WTzIEYrHFYfMQYx+PQf5N/M4K9vY7cQ8k/l888baP+7JuQ9WgnMtqz+JVkuH9uyN+dWyuP93s9g4C11PMM9CYIgIiT/QIB1P+3yZaJyVtp1s/frx+OT4e9/447bso5HNA/8+1jHFwqg2KkjCIIgRhPGJX1DuIDSlvycjFIYN3mK55q+cN2gl4AlHAmCIIjiW/6dVQsX+bbI4bJB4jWDWSuvUeMATpePAa5rro1cPRj0xeItQTDx1EVKTlYzQcSLSd+4RVScdWbe4xCWSox8y/91v9Y4llu0YU/kUiGevz0+JoBYf3sCF+6BnkEYaPleZzUTRMxWpCT+ivPO9X4X8/yfGFmWfwf88X4wfcXV4kRp6cO1Y9w9sPpN6Kaz94DoHiSKG5C9BSiDdLK24PmDtBIp+pqeU+uXi4q5cz3//+49d2e+mwyNJknXoUcfFQfaNudcfhLn2LHfXvdwk+PYgYPi0GOPiIHdu4fJXP2JS8S4qVPU2seQAVlRDd537XVqf4+UD98hL67V/W+bso7L9fwH5TXt+yKE0Rxr5MJ9nXA7DnKkvpg7YyvuV3HSXFH10Y8OuzfSJeAZnPuJYPCy7Kf+9P8h+Y8q8q/1R/5YzzdN9LMVqRv/PnoEdiQQgP8hnBOkD8t9oKsrcJSPRfydcusudiGDmO3YbC/yn3DGmWJu64/V7E0QKKbxI3EXzkcqai8FAEJ73z9el5f8jRw2OeM3yPuNFfWK9HBPyACFopTOywfE1CuXq3P33HCdVEaPpMn/H9PkP+NrN0sCPqDWR66++GK1QVb7Hl7P3/vMMxmiBZmfeOvt8hkPiiMvvaiIGNfCeW/dcjw4AGkNcD3ncRVz785bBrgfiB/H2fc26RJUuVv7ifiAnsD4T14qKs873i6Ql8hOUWFy2CCUEW1s4jUNolzuO6rTG5gwV/u4ARX2KDz3V62+QZ63yxkbn8GEqz4jz5unru/cXynlhTGE+/fL8+17jSny17nyO6desKTGSeBuAIE7SRwun7c8ZusWOnt46vlL8NFeSoW94+zslLsgWZsU59yZVgJvrFiuiM0mxZlSCdgkmEVqkmjtay98/qWcaxfY+2Hx4r4gVCgIKAIQP44xMnT/+Mfi/fdvFjNvvClD/urlmjpVyWT2QXmdLI+DQoAy8Xp+3MMmatwPz3jkpZeylJwhejwLFBHKAr/RG8J9zXEoQ8hil4EpW2eZg/ydQNmadAlEMgDxIzEZUhSA7Mtk/WHcACRr0lWUSxJOH3OJUhY4Nk3E58rzLxHdFyzNOq53vcgiZLf9+A1lkIv80UMx5A+50GuBIsE5R2VPE8dg6/mvX1YKa6Si0GiftqnnXxj65DfvuVP4URyhyP8CJdcDI6UiQFQV2to2pKu60er3S3ndOoVi0LLAQea2DCDZnsceVfKB4A1wjK0M0r8fVdY4rGn72QZzWNPm2d793t1ZvZt3vn171v/Np038RvnZcgQtd6NQ8r4s8plwvL3Z5UH4B2Ymv1uzSCUnA9njE3lq0j2CS4Ydj/+b7fA3b1WkbGW1jO+9lPcA8UNG3NckVEOvY9I3/mnMun2ADdMuX7Z6zz0bQi3mElfsPiKIxs+e3Sl7J216Ja/SJ39tkbqRGHzaIFSnyyYsYHkbYDGQ7n/7sVIyyoKWFjA+YTnbqDxpribA3BbykZdfVG4YyGtcVwDcQrkI2O3ZQfC4hvm/ef5c4x9BgV4Knh/XhNy5gGdylgtXhwsH58xkkP5xd8+8bK+BtK6N1a+8AhtbFSlXJjCGAAvfeX/I2f/wb9JuKKtHMqbIX7t+2mZcdXW9HcZZbMxYoaKLNvAVy022GWUpLd+D1sAqiNqpZHpND+HNYP5wo9SiUFpRA4ov7eK6O+9gcbpn89IwosfYAxGCO6TlDvJM+9jnBj4fhOscQFbjB6uP5w3zui4IG64cW7m4pcOGcoGc+LSPtxUU3I1Hx6jlDzRPX3F1PZZODDMwG4fVX127uFN+bR1RltCBg5nG5OZuiJJobALDteHPh98fA7qG5OwIpCBwynrcqn80/7PLc51WfXrfwcw1bXdSIUA5owe099u3+e5JmJ4IUTim/PB7irxBuhg8Pbprl/LRT3GQbCAyk9fzE1E0JNvbwNPPZBQExhrgavKKVMIAsTn+ONK/IfdYdfvA+u+Q1v/6eTfevPq1NdcX9WEQHTTvxlvwdU2QFW1KAYZUJn/i4mHuD+wz0S2RK52D6UgdkDSuj/vgfiB/dyLOTZQ4F/59I6vzt9ezw+WCPPV2aGelGmM4I6M4EImD47DfGZHjRzYbGLyGTG6hpETM76mO+QfxH/rvNx7f73D35Os5OC11jBnYUTqw2N2UCcjcLZqn3DFJ7Zi+/qDKm3/nqKuHqNI7NMPadk7mShogfqkA2uDrH2kVASICCWLwEe4IQ2iIeMFAK+LnY+kpOcI/cR/cb85dd2cGMyEHjkMPIatbfNLcrGOMrAce2Kx+w7LGbwwW24OkZvwA5+K49DyGg8r/bnoKIPjZd96Tkcn+xH77OJznx22TZfXI8/Z++3YycTFIR/duw2YkhbUOoo4q0iYTMurodZtIJEQmlbn0yN32jTW3D6z/bmn9L59z7Q3bendsL0oStlkN18DlA3dP40itjD3XX6cGFBHbby/MDX98WDeMGxAK6rS8cW8A9wEhp77wRRW2acMZsQMCdR5jZFXzB3Q4J66FzQk8o1F6cEXh2Z0Dqm/fclNGMeETvxEW6jwuKJFjkDeOnhSRH4OZkM3PqKgfkC/cLl7RMyB6ED6Ow+eUH35f7e/3CNcMAvQOIAdIHuGgVSLbe4HFcjC4DDfVoW/eqhQCSB/yYs5A9wV1Y5v8LfdP4/xv3d4C90+Uq3zlA/L+nLjyGrh5lpeiuwfE5BYl49wPtwXi481sUwAuj6AklY6VP+hLDgzgOl0o8IO/J61sM8PXSw6QMa5pomTglnH6xKEM3FwrJmbf7vl0Xpp2/dgzd52ymZnGJjTW6zivMoc8kBPjGn72E9EDRAsXDUg19VR7Zh8seRCxEyBaZ/gn3EVhJ1nB5fS+zu1Zlr+Xvx/unjL5DmBw+oQtv3TtMYx58tcKoFUqACyw3rLrjltji+F3Wvya+JdCAZWqSyfIfvj8w8atG1IOcj83gEz9uJpwzVzXdYscAtwmW0H5+fHBQ7aB3ZtDlXn63N2+9xP+AKt4XA43iPP/IFVMtgIRm9BJDMSawd9sAr5LWtwvyB7AWem61b0FuydxUJK38zy3/QcdJA+/vh2q6fYciO9HeKnt/oG8IzXEMxbytxWA7AGse3vTxlRcIaBmcFe7epaXKvGP2a69JH1M2oI17aqg5P53xd2BQ0eJ0gSI8GjA/w840jGYfW5Q/n0PH79x2fjZn6+34PUcUDZQAKMJsSzmohVAh7TIW6aev6QWC7VE6QZCOKcZ3JU/G0daZM9oAKz5XC4SWNG5xilwPsMmCWKUkb9WALDEF0slsHbRj1pW7X/owdTe++8tSAmA9DGBS8fxrxmJUT2jBZzVSsQNuGRUUrcRHEs/JsnfUgJrpQJonXb5slVya5Dkn9r/6wdFT8c2X4oA2TmRpA25epCyQaRn7rbS2ieI0Q24YLj4ywgmf60AlKUulUDzxIWL6ucsXHSl/F13tKcnBQWg0jy/elwRmHUCrLTM7XJ7gJY+QRBENBhXhHumzGaSwdnED/TqHoH+f8raCIIgiJFi+UuLv0Z+NMmtAeGfWLYR6/b6yQQ6fvac1NQLltRPu2xZvbzOOpF2+6yn24cgCKJEyV+SdUqT/mokfnt708bAyd9wPBZux1Zduzg1a+U1TfJzFVxIUgGsZxUSBEGUEPlLcq6VH5sPdWyr2XXHbZFk/ETaiNc6rldKYN6Nt6yT98DYwXL2AgiCIIIhFp+/JOUG+bFtzz131iDVQ9SpnqEEdnypQcjeRJ38uVMrGqJEYRK65UvH7Pc4giBK0PIH8R/t6Yk9vw/GC5BC4tBz22Qv4Oat8r5Lx+osX5OoDUnP7PQIZv1fwF7LFllDkWgNuXFsYEaumZjlTP5mgPh+swi6vVA7MmvifkirYOYA4Df22zl2kFANuYNsIPsnZLKPU7mEXn4x56LsJiGc25rFZjUyrrRVWlBJ2nSKhJG+ADrJvwjEb2P/Q1sUn411BaBIVBKlTf5u6/6mCfmmzCLoAFIr21lEDZDFE+mZs/a5pGOYqtJQf1FdE0nWACSnM4uyq7V5DxzIKB3AKACVjvkLaSWillM8cECdi2sitxBSQABIA20WczcKJ9e6wLguUVqkj9Ww7DTISL+ArJkmVz6yZLqty4vUDibv/7T//P9U/D/W0bWBhHDV//MOlYJhQB6PPP52fn/8H9dHVlCsHWxy/TvXADAyOPeT/HMTf13SxO+hABaMxTEAkKy9zi8IPb1Ay0uZDKG2QnAugu4GJGXzk0oa1wQR77nh2sw+LJaCzKLpDKMHMpY6rHGQ/Xs6aRy+O5dHxHFmMRlD9GahdfO/XDDLMxKlA1j7IPH0jN3dKlOmIdpBR46fwzp1siIoSdI4ZugbtygFgAVgzMIrdmK1yk9eqj5B/s5FYUD4UAxH1aIs3mmgcdzEa1aOnTqJiPgR1bN5zz13Jk78tgJACgnIMRZfLhAl0hKbxdlBqgfVIinZBG+WTIwKRsnAus+8iJJ44VJCZlLn/c1awca/D7znkj007CLtZhEZp2uJKC5A7oa88R2KACRvCN4GSNokfTPWd7lej9fk8EeKZZu0kfLZKJZhbfSqFem291+/nNOa91pPgOSfG+sOPPVkSlvgRcOeezaI/q6uOqmMVo/FFwwEDEIFIcNKtgnZwLhxsOqWIWCzGldQwLWCxVxgjdvupgq9UtfAm+6pk9UxWkHY+6LAzK9xecaRALUgis7dP5jD92/y+5uMmgOa4O38/uO11X/EZXEX3Ce9aMwvcubfhxsI1zQKaSygYLePdvc0YPC12DCDwKesu6sJ+YTGmvsHJGpcK/h0I1VY41ioHW4Z52pYQdEvSRbuHgwAQ4EUe2Us4xp6Y8VysmuJwunXd1uUxbnubtotdDwDLIgc1zCkjl4Axg+c5I//GzdOPlKHWwh+/pG+QEvSln/Tvvvv9TVbNwkgDFRucP+MSesfg6aImsmZTlnn2Iev/bXzPho6GgbWNcYOoGTm3Hl3JkTTpHqecPqZrm4ic0zmuJA9D7eeCJdnLG0MKlfOXRminfSNW4YtnA6ixqIr2KAczGDxcfK/P22tS4vfLPGIgWMnkA0UCsEsu5hLIdm9C5K/P6u/RpJ+HWbflhLe2qQWkFk5Fl8uWPYI68yVKx+Ls2MA7m0fg775gPNxHVwP1zX7cH8s72gTu1kbGAPBaslHueE79jlj+80i9kGsfow1RLnWMRFD71T78bEhYgfEbMg304O3fP4gbxA7SL5Sjw1AaWDMAIReLZWHrRCy7/WMUiS4Bix7p5JRbVIP8h7+5j+r3gPJ3z9WIVdPVFb/jKuuRi6fnMfg/1i6ceLCRTmt//6urhqpnOr5umUDg6EgSljsUVnIuA6upxZt1wPOWEMXxJ5ekP5mtf/9929Wfn4MxkJBYMN37Kv5zaOZ406+v8019DQfzHWJ0kOlY1AXKNPrQ5t1oj1JSg/2HrPIuV+TPQaLoQhyuWtM9JAz1NS4hvC//ocfGXN1UqjPv37/r6MZ5AWpn7jyGpGvF4EFXaavuDrvcd1SLnk9pH/YNNorMdeqWvZ+OzLHXiNYWeLyGnbcfK5rDuqxBXuReFzPHnA2k70w98DE9uN679xwXda94To6qq1/+zgoj+wexnAZbVnVnATHIG++1caI5AAfffW8OzIDtiB+52BuhgvkfhMBVHneR9V3WO92aKchfCiGfherP8tDIZUGIn2wAPuUH35v2BoBPXoOwVhDWYEun50vfOryyKz+iacuEvkGjk9Zdxdm9Yp8awOjZ7DoRy2d8muj3LYaMuBsT2Kkw559jQlLIwFw0Yy/aoUic2N9w/8P4jdWN5SBUQgZpX/goBh4+DeukTypp9rTht4FdVn74d6BOwjn2OdBBgwOYx8Wd8cxuLetfLzOLfVelTVI3l5WVrY0bsu/zk9MPyz6aZcvc/2fTeDTLlumfPVYwGVyehGXLPR3dak00Pj/61/P7xLQstXojSCIIgIkm8+1EoRwoSRg9WPg2AmvFcCcMrgdM5ZWDyvE518DCzwIUpddkVmlK0tTT54sKqWSwPiBDbiBKmdljwFs/1Kj7zEG+P5J/gQx+mB6CEfyuHyIeCz/+X5IGBk9jYUP4ndz2WB9XkP8OlQzQ/4YUzC/lWYOMINYy3cOq5kgRg/g5vAz0EvER/41vRGlcsAC7VENHNvA8pBTL1jC5R8JYhTh6K5dag4APonwGFdsAeDygR/f6fIhCMLHCzxv7CWwg7U/4JHHZ0xa8NlhtJ0jhvxtlw9BEPlhT+AzScuIsQtHhNTjSZB/d74JWb7I//wl4sBvn4ilUPRgMZd4JEYVsG6CAWanOicuEWOL+B29v7YkyP+58bNnFyQ4XD6YtGUP6EYJLd9zbCLEaMIBlao7PcEOxO82c5UY/cCchEk6vYVGoGSWhZB/JyZlBcGb99yJnPvHrX7t8vGKGip0YRidAqKTzYQYTUAKCzuHEUgAs1dzJS8jRg9MPiSH0gfpNwe5TiHRPh3VLpOxcsFJ5GmXj7e/v5AeAYhf9iy6Sf7EaASWuMQKbWZlNnT9J//w+yyYsYvl0uoPxHWhLX+slSvJtTNXgrW8yuDV7WrWbhzQs4Tb2CaI0Qok03NbsIcYW3aA3LB2eXvQEwuN9mlHWobQjbd1Y2zrAGi5HmfbIEYz4P55/ZMXq+UxB3cz9HEMoUNua+S2IAzxKwO+kLsPDQ3VSvLe9vLnryqZxVwAndStWxbKNKw0JpjYjSBKC+M0+4yzvmMrh1chx/8z+8vUdxybdby+dlmZdVxZ9v+EOmdIfZ78fz8jxk3KpJReDI/GWKqC0NCun3YM3JYSZqy4Gh8b+IYRBJELfS9kLXpUN9b0b6FonnPtDSpssxSAQehply+DH2w9mzZBELlw5MUs8r+I5B/M+m+H9Y8kbKWAk65VS8JtGGuLtxMEEcLyf5GWf6FonHHV1d2YsFVM6OUdOyTxr2WzJggiH/pff0kcO5xZkS6FcUySfzDrv1N+rJl34y2ikNDPQjDt8iuQAhrWfiObNEEQtP6TsfyhAFrLJ09eP/9btyfu/4fCmXfjzaoHMpZG6wmCKBxHXnzW/jlm/P6RZvWUxLtm/OzZrQt/1JpYDwAWP9b11cSfc1LXuCnMf0IQBC3/yMlfK4BGqQDWg5DjHgOAj19a/N2ypwHib/U4LDPwi+nws269nUqAIIgMxqrfvyyuC8sCrJcfLXvvuzf19qZoZ/IilTTcPNW1izuED1ePlGWrrdGREfHQo4+InsceFb3PPKMSZREEkbDZWQKTvNJbmZh1yyYx8cyPGOnWSE4Z9aHiZXFeXJJujfxYJ4m/ft/99wqpCApSAiB9hJROu1ylbkDlNPsJ6ZRyYClHKABPjW4vkEEQRMIMVObCSD73lZXlYLUy58EZVrC+l4mKmSeJihmZvPhtkleWk/yjUQKwupsk8dchhbNzUfZcMMs8TrvsCuNGatWk3xlCjtXyY5XcavjWEQThgXbJL0tJ/tEqAVjeK+UGl1ANFAAWgT92qEd9olcA6x6LsIyrnqwyc+qBY7h1NmmN3BmBHLg/RvXrcvUGCIIYox2SsrKyUf+MSd/QqQD6u7rEQNeeYcfpfPyRE7+HTDWO3gDcRFdq5aD292nl5OyVmKimY4d6xdG394mB3V1CDAwkU3nVk0Tl3FmiYm56RTXI57b4TaVWqOqY7gNiYOcb4lh3cuMckK/8xOmiPJUeaPeqc2t9CLjy2uX2gEhuPQZT5/X6u2vv1K5zLVubljMJGPlqTF0fes69B119zmL7HSqGnBnDqkTrOx86RnuWgKTcPindaJtkQ6hBDn80WrxcucYA0AtAA0FDhssHaSSgCHJE9kShBJogq3yxUvt//aDokTLmW00ML9lk5Zpapr4P7Nwljjz/ilQIh2Mpz8oFJ4vxNfOEmDRBrYRmyrLf5QWzScuUJcJjy8rKlYxQBLE0rMpKMf70BaKy5mQxePA9tW4DFu7J5+4zdY6FfrSbD6S1IWzaWh91XqeNkQZTln7q/LiMF0KxgiSQSHB9HIQhZWyw3x20S78r3Jm2OX3F1ZATxNocx/uj33G4VVcaOUuxvokEyd80XNkIavbef68iqzBIr/d7oRrwlY24XTfi9ggbLkh/NZaZRHRSLiLN15jNoDSUQN+258VQRD2BCmk9T1h8tjjad1jJiBcs7AA6FACUVdWiMyJXAuNPWyAmfOA0cfj5v4i3pJxhV2RDnc+46mpFXFrxr4lqEp8zGAH1HrbOzZiUTii4Iar0IloxtYBMUd/7H9pS0PVArrNWqhQoUAKNEb4/eN5Vsp5TEdd3Y1y9fSLeUE8Q6mbZcOv23LMhNOm7AfH9uoHA0loTwQu2GQ131x23hSYANyWAbKdTzj1P9P7hOTEId1ABVjTItPykmYr0ETUVFUAIc65dJcrHVYrDT/2xIEUFt87Ec2vFwN631HrNhSzD6UYKOnlgc6Hkqgf+m6IOQ4YSALn6DUHOIyMU0+qo69sofp2J13fEnIeMcOu0yF5IbYz1PSbCLkcN+etGsVVaUykQfxwLvYBc53/rNpXITaSXMesOIedaKVvTHrWw/JZYChjkipxHR998R/UCwhD/pE98TBHq61+/OTLl5HzZoABSF18iDj/2ezUuELhXMne2qDr3HLHvgc0C5RkH4MI4+cab8QmrcHnQOtcGyTppkDTsuuPWyMjKzTjRxNUY1MViwpJBqHHVdxTvj+7Rr5PKKYUV+eKqb6SLkT39Nl2WzNRbyuRvGoW0olNxEaoNEKvsbndqMugIIGeLJP6G19Zc79t/WuiLVl5eJXqf8W8MwpIG8Xc/+ogAWcUNWIRzv/LVwD0VNQZx1qkiTiVqKyrUuVSqgUjLJlXUedwrz6EXoPNc+VYARkZpNNXGZTR5vD9By7JBytaCNhllj96rvlGOuje1lAqgRMnfLJkI90kSxO9owGgUC3xO+kJXtSEJErAbMVJe+FUA46onierLliRG/E4F4LcHYIg/CSUalrSSJn7bclV17kMB2MSfZH2HKEtF/KVc34Q/RJbbR7t6NidN/ABeFriY8PLolyhf421AlzrJdYdxL0U8R3uV/z6fq6fqgg8nTvwA6m73v3xX9TiggPL1TKo+eo54/es3JUoEps6l1ananI/D1yVN/ADKRN+zRc8tyYWWQx3bEif+IGVpBqCTJn4jI8oH9ydtlxj5o1Lg/0ua+F0aR1MeBaUab1y+1HwK4A2pHCvmn6QidzwtxsVni77OV0UxiMAoAPjuoYByKSgoiD0RDvSFqXNJQnU62sSrzlcb916SxG8rAF2PLTrCyFXG/q6ueijRYgEyIjhDD4Z79UyUcZc08RugfFBOXjISRSB/vHywrOIa+PHfgG/DC75aWyheCqpojdeQAWSY+NFaRaBOYOB03MyUKCYRACB1DDJ79VKgoA7+4enII1HCKFMofLdMjGbeBsqyGMRvAL84IovcrFYTZgzyLaaMuLduc00eSqpFPkfRjDuHjOu8FCmRIPmbF0y/hEUFrHkQq8dLVhIKCgBh9m5/SU2CciNVEG8xicAAdTrh7NOGuX/Qa4GCKlbPxE2ZghBc/t0Ed2CxeiY2dEhpnYv7Z12pyIiy1O7TJqe7B/MhSqW+tcFB908JWP54wYpqTTuJFZNidNSRbV2tejOmEMQwgCyYDGVb/xg8xWzYYlpXLmSgFIAN/MbEqFJQUKbONbHW2UYJ3D2ImikFoKx0COw6h+HUoJVXSUBHGTU4LOumUqpvS5HWkcKLRP6l2HhN43BYL/WYxFUK1pVNrHCb2NY/SLUUy7JywbyMklL5eSZNKKq7x41YQU6OOm+CEi0VwgIgjzZMjPW/qpCZxXGVpQ7fbLKs/roSre9VpPDiWf71aChRNV4rEZWvY63EUMNeMtlAaiw/8CrkQyk1IN0Fct8YV0rUVn8U5Ym6RR1DAQDjTztFRE2qXvXodazbEqGanGAN1uieXsO++39ecnWuSWul/tmw9/5oSTWdFXdO3mNQjl5tQxsgRkGtjLK+/da1Vz0ff8fV+1yfL7qPiI/8VyI3fxRAQ1z0I/9uPEz8QD6VXFYW5NPd/9qoSBUN8vSf3Of7mT649Sk149MN6ImA8GFNY6AXuXqiQpTliQRdcEkpJTVvlohSkWIG9EnX3uCb2BA3X+VCCpbFCtJCYr7IjBKkGkCcuZ9nQX3nIjgjI6x/2QtIRe0uTc/aXZjzGMw+VrPOPQgd5YbEhrqHUh+VEvVb17nq2WmUWEqKSIr8tcatjWqGH5K24Vp+LAwQMFIU53KRgLBEOq1sfZTuHiRD80vSeCY8T64uM65VMW92mvx/G91sySjLEzIqBSV7JwP79kU6vjP1/At9KxOQB9IDeylyXX5IJ3xRlApK1flvn/D1LGhrudqbJlblVolS2RvSRPrufO8kyjGfe7En/QzIJJqKSon6ret89exS30QIVBRwbp1fUk03ytlZ+5z58ZHS1Sa/XOcgRW0+X6mWDW6fTq+c52FJ1W8YJtIn5xsog2zTLrlcjKuu8hUvj3IZJ6165EfHbFzLzeV40Y6Xp8lBj+vjHBC9XX75yhPXxrkTTlsgDgcgfjcL2PmMTiJyc1WZekd55iItfW0o/M7eiBSUX0I1z+snIgbEKp+ztu/VHYF7c05XyIAkSVNvKEsjp9exaDsoy3zEinYpezy1ftqkuY9tFJj72++5qWvzbjuvjfKDjPnq2UDXcR1pPHm3T63fFwzpjeFWQMZDbOjSORtmuuE+4escZU378JXqxljvR05ndx3fsS9XI4dMTpeOfR28ANo3mUPGHcqq9qtITbnotAHqRYEbykmYdnmaNAOqDE9dqFZJO/0nP8/I6ac8UYbonfS96p9UcT9081F/+MTv4S/7niylg+PgknCrd9w7l7WM62iiqfFTnnYdm/QbznZgE6qzfpEZ07j1QGhqcRUf9zWkH1RBmXo0ZaMziDoU/hM5j8Vz+omAQrs0Ze4HcDHasqCNzlhxdYb47bo+2nMwXcfWu4PvaVfUwbz17Hi/U/T7J2/5z8fyi35hprqbF2g4UQ13UXid49d/b64XlZsCFnKQrrqfHoIhviADasfkC2LPWMWLB4veuJe8ytOZshovJ8jKT3mauu4J6EIzqX7x8jvJH2Tl5gbo/vUWYeZj2PXuZ44G6royz4CnV48OhPnCpy7PKjcoV7dxLZA9xgJQD4bw/fYITR2EbZfmnXDrFTh7KG7HBpHRj4Iycy1A3ju+1KDKBbK8/PmrXOsa5YseEtrDe1JeyI5xCNOmg8zF0W0LPfx20nlyln+NXyLAC5SrEcEX6PR35zvHV8PQ7p6oIhXg+40raiiIRY3nsZ8J9YCXK1d52i+0KRu9cpIv9MYwj8OMS0SNgRA+6vRYTrbCNKufucmIHhj80mHGk+DaGCll6RcgbJQ7LH4QuXNWtVM+lBsUBo6H0ni7gEVgiOQtf9+AJZaLNEFCzq5ovnPiAFwOpsE63ShpX/uUYdZa6rIrlKIqSEkV2OidPTC38vTqFQVROEFdFLmIDv9HD8Y5zoD9Sdc7ek5ob07L3YtQ0U4gZ6FWdaTkryzr4k4ORC8PZamWw7TatFddQ2FgUSa/vTqidCx/XxivFw/3IjgQlXMt33znxAWQDpahw+YkIOeYhE3c5py3Qk7QCuOm8CJnt/KMitCDwChPL6Lz6kXhvKQnPZl6A9k7CdUtysesoZsr1DhJ5OqhJAm4EdEbgiz2XAOvujYBC6bdEiOI/Mf7IC10j3MtLu7mosh3ju+Hq54c6PhePWCHzenm8GrAA2/tyZwTVllB0QWV1UlSxsXl5fJxPSeAvLlirr2O78/h3nCzqvP1FuIC5EDqhTnaos9HqGgbyHsEwrIJzC+CTGobCS4fQ954b9F7giyYb5BLPrPMKdw9KHu4fsZHYAQRyZD/4+MdoZhujXy6HvHHaL7Z0mR6RZalGuScoIQ1MSBxuSm5Sh3NEReCkCueB6RjVotS1qgetHWWpw2Uo1pntuEadX6Qnoqx5P0p/CuU37fbww1h6sNW7pALSzQWqvQNaQfu9cnyA0FBBkNYuZQj2oJRGGFJq9B26ab8o+yx2/We71iQN8ojXS4blIsU7cytrgEoB5QvghRQ9vg+T5d9iF4zF3dJmPy7J56au/EiOgYk7hzMRPgjrAQQlTPUL985IV6u7nxKyrhvbDeIiW0/7vJxtwCd1q1fl4tNelg0PYjrB2WGkE2E72UWiZGfbuXpdPPgHNRb0AU5cM6xQ73CT1kCIALbjwtr3sRue02UQ8/K6XfHOUF6AoZs/BCyXcdpmTeo+oTycs47catfkBa26Ss+G6hdTtbKKWhvyi5DW9m5uSTdjg327iz0LSOOtReat1IvK1eQUzYVlSTL1p4TodbjeG5bIIWIZ0d7DLJ8K3EchQz4tvupKJCRczAHhKfI32PGX65zglgu2mpprT5n8ep83WLn4J0dZgqycrOS3RYqDzoIiJdrcNdbYvyCeUpmP1avlSFymAst12ApXs6wCbpQ1wOdb/ga3HYLHe236tRtopyX2yzIQKC2+DuxSUKqy1eWdh3bpJVeJ/hm1wlbzvoNs1i9Npq6ZVkGyo/f7/JeeM3kdjs2kGsqXc+d8rPGj9vMrWyxYQ6Ks67N/5xtOqi8mn9I/Elb/tC2Uut257KwYK27pVE2Lx1eMmfDyXdOQCJog3tqcgE+1iAzPMO+ZIPv7BNH395XsC/YrTyjAF6yyunTRf/LO3MmBPNbnm4vfxTQ9dyOOociDO1GCZAaI1Sdp+VcE4XvX83WjiHKRw9+b6gu8N2Jq66Nu0swvj80ClrAHQuhS8unoZTSvRrAFy67w2rhbCnn/pc//9lUKaXONWR91q8eEgd/8WuVNbP/0Lt5JwqZ9A5BXig7vUMYqDGCCz+pFp6vvuxCsecHd5fMmgM2YGVKMlwOi1US9zZM2Co1wEUj22anbJcLZLvcKQ2amlKLb0dbWfSjlm4p4zQp47Zdd9xWW8r1LeVsI5UnaPlrPGDidEsJIEgdOmYaRVtQv2wSgG95cHeX8vkP7NylZM7nq7YSg/mG07cdFJjLAJePuv8rO5UbrNSQDi+cDcJqQ69UKrzOMJE4sZN/ukeyybTLUgkXtTEj/U6bd2dTCdd3J4m/SOSPgkcFlNpLhkgTiVYpn4kC2AAZC3FXxAEoTpCp6kVpBVBqSgrlVjHlBDH49j71e3BXl5h09gciD1csWM40idoz25pLjbSg2PW4VevxdrmspEIcLRmb9a5WWdfdpRaGOSv9jm8ihRfP8leNRJNtqTZeoS3BduQcKRnrSspSPnFShlSBI8+/ovaX0ouGuoVcBlBSUFizSqjOdTAAFP16a3cbSKuUJg9ZRkmnbpf4bJ3jcz2DIsmIct0QJgwzzvpG3Trqm0ia/OFTl9Z/h9eCJUlDv0jrTeO1sAYNuxSI1SSyOrLt+az9xw4dVtZ/qZAB6hQKamDnG1n7MfBbteiMkpmVqRcI2WD19AxprZlz7aqS6PFZCmqNs13KcuwuhZ6UJWOz41/rS0mR6vputuubKI7lrxowXBhRTVopxEWBF8ml8ZpY4PX2zMNiAYPRQ+/1ZFn9Bn1SIUw59zxRbFca6hIKqu8PwyPpYP1DTkzsKTax6olEHbJ+13oYJu3F7pmmQ0dvcSUso6TQJopZlg4ZO11kbCyF+tazsFHftPpLgfxlRbTLRtGM2ZHFahwgK20xL/eyCOT+NWg4fpbki5OsYDX3/uE51/+DWHuf+mNWqoFiEAHICO6eo90HXI/BQPWxd7qHpWlO2lKVxK6IKcdhjTOuurq7mMo0nbpgdpsXYUFJyTJvNWs0FMsgySNjG2Q0M8qLZdyhLvPUN5Gw5Y/GsVaSVVEasFm4Qt53DRRRnsOXo2tbDDLAPWf+3RckuT+rSN4L6BEMbH/dddGbJIgf9y3rHRRH/vJKzmMR+lk5Y5YohjJFuWgiWpNrhqe2YpfDZ10M1wrKRvZGO3wQljJM4KYqhoyybHzJiOOKVd/auGvkjN4SI3+7ASepACzib/XTFdRksFSSQXeSA8Ag/rlf+ao4/NjvPa1pGxhUNZZ1UgrAED8IHcTuB3ieqeedn6gCsOpczePw0zMFaei5H4mSqjQ0UJBL8/mn9f+X4vik3h/j6gkjYxHrm6GdURnsUV9QL6nW0rdjez0yH8aZDA0vsvZDNrv5fPPIidV/tu5/6MEUcrrEmd4YFsv0K5f7Jv6shr/4bFF+0kw1+SvOyUB4wZTbrrxK+fNz9UyGNaLKSjHpEx8TA3vfylphLC4livL0S/yOOm+QH+v23HNnKs6JiYZUtcW/NMjApH5/Nsv3pi7O9weBDxj/grEWUsatsj3WOhdtiaO+daRR4PomEiZ/q4Gsk41itZ3wKcqXC4N42v+3JmyjMI1YvmC1cbxohlBhSWPgNCjxG1QuOFkqgbPEvgc2qwRaUb9s6AGhPAdffzOvqyeXAoCiGjczpXLiRJ1mwiJU1PlyH+69XEp/s5SvBnl5op71DdeS8fFrwuoOKedaWc9N++6/N/KFTkx9yzJFVNyaAt4dvOMNCdT3Urp6RhD56wZSh16AtBBq3opomTaTLhhRHPrl6oxATvQaVqEXAHItlBAs5aQGTcMSqo1x1ZNE1UfPEUePDSgFEMV0exAVwubGz5kn+p7pcI0+Cgos8l517jni8PN/EVHUOcoS5YhoMvm9IEJ1EFcTjBOQK4yTQhWqyU9vos2iiEbR78+6/q6u2ijq3Hp3OnU5tkcgY71+x1OlWt9EEcjfSa7Ssk7tvf/nKsVrkJfNTNxCmgHdcNdE7fuTMtaAEOTWgORyWMEpqDWj4qSljJAV8fogfsTuRwn0AiacfZoYPPieypcPWYMoq3QK4AvFjBWfFRPm16ixhSiUk7MXMP70BWL8aQuUEkCm0aB1rtYsuGyZ0DOz2zWhtkdc53VaCdSp9Mx6ha4gUIuYXJYJMW4VMcSfa3cV5KxR6w789knfJGvKEXWu353mqN0nWpmuxjsOJVCq9U0UgfwdjfhKudWrFL7PbVP5093IC6mOK2fNVpkaZcPAywSy3xR3g9BKAHKuxMsGObG2gNdi9Uq+Uxcp4i8rK1chkGqwNmLSd7OwK7EtmKcIC/INvNXlutA6lCfy/+uyVDIO7H5r2OStyBuXVAIV82YrJVCemipMnUNGN2JAnZuyRJ6eBOscriCE2dTL9pg6pMpyj2udQ3lCTmRj1dFDcEcgzUBr3BaqlnMl5JRbjVlxzrmGM1aFU2UpN+Q4EunMl0mUY8q8O3KrDVnfG+jiGYXk72gksLrQmC/yOAyNAcHw7cWyALQigJznQNajb++rcx4DPz6IHimZw/r0C1YEJ04X5dgkwYJwhz3HwICS7ej+A0rOIIO5USoCJeO0qaJi5vTj+ydN7Bw3udq47vD5epHrvNaq8xqPwx7XsrZH4XYsoG2a9ukGlF9nkeWr0zJ6veOd1jtOwh8L5D9S8d5PfzXEUogczSf87afWshgIIlmMYxEQBEGQ/AmCIAiSP0EQBEHyJwiCIEj+BEEQBMmfIAiCIPkTBEEQJH+CIAiC5E8QBEGQ/AmCIAiSP0EQBEHyJwiCIEj+BEEQBMmfIAiCIPkTBEEQJH+CIAiC5E8QBEGQ/AmCIEj+BEEQBMmfIAiCIPkTBEEQJH+CIAiC5E8QBEGQ/AmCIAiSP0EQBFFKqBjLDz80NFQX5PjDW3/PFhO19TGlen7QepDoLCsr62TpEUR4lI1Bwk/Jj9VyWyW3FJvAiEW73NZIJdDBoiAIkr8f4t8qt1pW/ahAt1YArSwKgiD55yJ/EH9d5vehw+Lo62+wFYykBjtpkiivOdm5ezF7AAQRDGPG5y+Jf7VN/P2P/1b0bfqpUgDECGu0Z50uJv3360RZ9SSzqwUKgCVDEP4xlqJ9VpkvA89uE73f20jiH6EYfOFlcfh/3m3vqpXKvZ4lQxAkf6fVD2KoUd8l4fd+fyNrfhQoAPTeLKxkqRAEyd+JzADvwB+30eIfJejf8hv7Zx1LhCBI/k5cZL4cff5l1voowdHOrMH6lI7mIgiC5D8cx97Zy1ofRYD7x62HRxAEyZ8gCIIg+RMEQRAk/wJR3fQ/xAk/+9fQ/ycIgiD5EwRBECR/giAIIh5UsAiKoHFnzhATPvtpUfnhxSpFASKQBh7/nej7+QOZY+Au8sLRzr+q1BTAxM9eKSrkdUy+G8xhwFwGO3XF+IvOF5V154sj8voVH1msfuO+iJTp2/STTMikOc7e57Yf95q48vNioP23zolWWfLbcqrGdtbpYvwVl4rKjyzWz/GGOHLfA2rGNUEQtPxHPfFPvqNJlM9/v5ppfKj5O4oEJ1z1aUXkNlGWzz95uLbG/pr3H7+ePGbo8GFJor9UG4gfZF39jePKY9yJMzL5cCrOOkP0P/iIIm1njhxzHJKnZcns2I9P/MZ+T6vCIScI3yg0PLNJz5CW6XQ2DIKg5T8y4XdQd+LKv1Vkfeib38lY5rDAJ9+xVoxfdkmW9Y+MoyDKXPdx5LjJstZhodsWPEjfvv7QO/uU0kEPxMuCjwpVX75GWfi2vHjuqRvvUr0BR7w+QRAk/5EBWN1uqLzo48raVxaztLBhAR/Z8pthKSYGpcUOIoYVHIYIQfTKIj/7jOP3c1jwg8+/lPW7v/236p7lZ0vLO0byxzPj2Qcc90AZ4FmNG4ggCJL/iINtUWeRMtwjmoyNG2eCtHSxRUWs6E2Ye8DSL6uu8nWume1szj3eO/m86p0YjJs53fV8KA5shsidYw3HFVPa/QMXD0EQJP8xC7hYMFjqhiCLy4C0Qagg/EPf+06mx4CxA0PKST0HehzmnkiX7aogpWLAIDBBECT/MYVj7+zLfI/Cxz2+7nz1iYiZMNczFr8z3xGieuzreSkTjBmY4/CJqCOMNTjJ/9jbezO9A/r2CaI0wGifRMl/r9owwOp0tQAuyxOGwyR/bh+jPAYjDLV0S5dtCH+8h6srsucmCIKWf6kCrg+4ahDuiUFiuEEwGGri79/73N/7vtbAs3/SfvfjIaKViMn3GEAF+eJeIGjjpoHLKGycfdnM6ZkwTcwDAIkfyc6xn1F62I9xDkQ1IQ8/9kEBVmoF5IxqIgiC5D+qYMIdMUiLzbaYg4ZbpidJ/VKRuBlMxfUN0bpZ2JUfuS7LIvcKFfXVc5CKBluG4KUsXgPfarLX4V4Vzlr1j9dkKYb+LY+wYRBEwigbCw85NDS0VeiVnmBhlorf2YRn2q6RMIAFjYgcjCm4rVdgfPZ4dhyDYxHN41gMJTmLQ/cWopABE8esSWJLy8rK2vlaEwQt/5JGVORrxhKiPjYucNCXIIoPDvgSBEHQ8idGI8zMXjvUlCAIkj8x2sn/hZfpaiEIIgt0+xAEQZD8CYIgCJI/QRAEQfInCIIgSP4EQRAEyZ8gCIIYKWCoJxEaSBJnFqhhKClBkPyJPDC5dpBm4eB1N2b9b8rdd6hcPXaSNPxGEji3bJ0mC6hXzn2QMnL6YO1f8x1AXqGqL/+9+jT5jpzHqAZy1ukqf469H6QPeUxSNwCJ6ZC8Le61gAmCIPmPeIDUQaCGMCusJR9tVDd9VSWAwyIpJi8Pllp0y4OPaw1ZM3nNQipOIAsorgklk2vmL+7jdi4sfqM0zIpiyNaJ38XOHUQQBMm/pIHEbshnb8gf+faxzyZ1oxCQptm2qu01dm1gWcV8LhhzTSiTXJY60kI71+9F7wPnIxW0uQ/Ivvf7/6py9Y+/4pJ0+maCIErb+GQRFA9Y1AREasgYxNrvWAzFi+QLAZSMyqOfg/jh2oEbyUnkFdr1pBaE0bJjM6mpzWLtBEHQ8ic8YAgY1r9ZzMXpMkFPABvcQ8fkp/m/IdsggKvGjCnkWzkLPn0sJg+Z7MVXjFsK4wAEQZD8iZCAmwZECvL3WlXr0De/o8jYJuEwQC9i4PHfqdW0oHC83EOw5KFsem5c63mtIMtNEgRReqDbp8gAASvrXlrZXmQMxXBML/wCPz2IN0xoJQZ2EUEEVw7IfYLHguoY5MUYg9tiM1hzWPUiuOg6QZD8icIACzuXGwaWOCx/uGCiCKU018E1rSUQM/fCIC+igFyVlV7sHQoC4wJZjUmPWxAEUfqg26fEAYJFGCWscFj9UQHXKp//fnXtg9ffqHoXBugZ2L+dPRUoDvQcJt/RpBaMx8Ls4+afrIgfSmNAKwiCIEj+hAXE3oNE3SJ5sE/Fyuv4fETcwCXkJH7jfvFzTUPaznMwxoBxBBPVY2L0nb0L57mQ5ejzL6uoIeM6wnkqHLWdk7wIYkQYlmPhIYeGhrbKjzp8NxOTiNEBDJZbrqulZWVl7SwVgsgP+vwJgiBI/gRBEATJnyAIgiD5jwY4wxOJkQ2TUlqjmyVCECR/Gx0ZsnDEtRMjuPHOnJGlzMvKyjpYKgRB8rfxnPnCSUijB+Przrd/trNECILk70SbbS16pTUgRg5g8SNHkYUHWCoEQfLPJoqyMviCW81vt7QGxMgi/upv/A/b5ZNVvwRB+HiPxsqDDg0NpeTHTrmlzD7MZEWuGq9UBkTpoeLsM5TF7xi4XyMV/HqWDkGQ/L0UQK382GorAGLEo1USfyOLgSCCYUyFeupokKXCiv4hRiy6tcVP4icIWv6BegH18gM9gYsKuExKXyMfScWpbEpBBqDOxzHtEdynU6Sjt1r1WA5BECT/RBXHSrnVH3vzDXH01VfEUF+v/EwnjCubOEmMm3uyGDdtuig/9TRRNm06SAoRR82SsDojkqFBflyZV4aT5onyk06GDJ1ahg0RygDCXxWiHDYwJp8gSP4jifRBdi1D+/fV9D/5qDj6lw5xbP++vOeNk+Q7fsnFovzsc0RZ1aTWQpSAU4bBP/5eDPUe9i1DxYc/hp+t2mXSXYAMTVKGugF5/8Fnf+e7HCrl/SGDLAf0AhqjUkQEQZD84yD9lCK73sOr+3/zH2JAkm6owq6aJCZ8+mqQn/FXtwaUoUXKUN//y3sFSDcMYIWP/+SnjAwg37aAZbEO5TDw1GOi/+FfhS6H8Zf+jahccnG3VoSM1CEIkn9JEv/Wo6++Utu36fu+rOx8gAtk4sovq16AnwHLOGSoOLtWTPjcSsiwXsqwxq8Mx958o7av9fu+LH0/PYGqhi/DHcSIHYIg+Zce8Q/+8fe1fT9rjfTasMAnSuKTBJiT+Mz8BClDKnIZJPlOlArApwyqHI7IXkcUysfuBVT9w1fyykAQRLRgSuciED8Ay7n3f/+LkJZ0g7zX2jwypGKR4c03lAySzCHD6hyHbjblECXxq2eU17PKoYUtjyBI/sVGk3JxxEC6NvH1/WwTPpv0IKoTLcrVE7MMWgGsc5MBikmWQx0s/ljLofX7RgnVs+kRBMm/WFZ/HQY1QUhxA9Y3BpFB9NrSt2Woh48/SRkc5YD5A01aQcUrg+wJHZH3cZYDQRAk/0StfpBhFIOafoDoIWnh18ivtuulpT9i/3o+GaQSqNHzBwzWqXKQyiEJDD7fgS3lKAeCIEj+CVn9iF8PGc4ZFv2/UWGTq7QM9YjjDxvOGRbatdNkrH6peJIvhweUDKto/RMEyT9prIyKdDGhqeof/i8V0ZIPmB0rLeyUtrxX9kdEurj35O/+QMX2+5EBSkf73Vf5nUBmA/fBMwMIacW9g5QJeltSDhA/ff8EQfJPFPWYsRoJ+S+5GGTqm0C10lFpIwYjUkAVZ5+j7u/Xgh/8i8q6gLQRdWGUIMoOKSUwmQ2b8zn8lMngH39nZCAIguQfP7TLJxWFrx+WLeLog8yCheUN0oWPPSpff/mppwvMxvV7PfjdoXzk8TVhfP0qhHXdP6scP1A4dqSS3zLR5UDLnyBI/omhVhOPe2FhRqp2aeT7DYsbRGoUiXF34BhP4tRkm0sGJ2w3iwFcLXC5KFRViSA9GX3v1LE3dwVvTPr58cwgePQcIB96AG5lkkuBqN5BOtqIIIgYUMEiyEJOq79MEmmGVPP8BvHZbpOy981IZ7aUx+QjX1jNUSFMuKrK0PnaK4HPc5YHviOHj1FmzjLJKcO7+0T5tOkc9CUIkn8imB9XaCWsb6Q69mNRm5TIxcJQbzTKBxZ/2DDRoT5VDzVskgRB8k8CNUPvxhPbr3oUMcwbgLIa977pJVeQcPfgmaHsyk85LfhzpeuB5E8QMYE+/2w8jsVHil4p0/yTuYmmqb75NuVvx2cpyI8xDh2zH+4a6bGRdjZJgqDlPza0sbTiMT4QxPI/dNvNGV87/OvO2PrgxDtPDbiGxYTPNQjMU0hqhjRBELT8C0VHGBeFH8ANkhWF4wKEQpZJqxnkGxQg/SBRQjllUCGZ8wq4RpUodGawLqdONkmCoOWfCPn7IT2nZV2opZ0hvLTi6ZafBUW5qIihkIO2WgZZDifXQgmEGQDvSydoK6DnoVw+nVzikSDiAxdzcWBoaGhnX+v3a/Rkp0Qx8XMNWF4RSxrWH173zzVJJVRzkQEre6088rPW2qTzCwGIEqpccjEXdyGIGEG3z3BsqvhA8nOLYGVjgXfcX25tWGy9GDLoBd7bVDl8+OPF6Y6my38TmyJBkPyTRCsIMEjETRRAzhtJvu3S2kWXY0OxZADxa3dLa/mpp3XnGqOIRQb53GXTpsPl086mSBAk/+Ss3zTxrUfESpIWd+UFn8DXZkuG1vFXXp1cQ0B4ZrYM3VBC4y/9VKLlMD6dCmINWyJBkPyLgWZYvZVpF0jsmPC5lSC+Noe1u6bi7NpuuSUkQwNkWK97HgbrZTl0VibkgoKvX/d+2tgECYLkXwzrH1bvclihuRKxRQEQqyR4WPqNLjI0QjHELQPCUCXJdxir31kOE5IoB6loKz78MXU/tkCCIPkXUwG0Syt0TdU/fCU24gPhSWJVhKeJ1ilDG6zxuGUYf+nfKEXjIQOUQmPs5ZB2sy11k4EgiBg4jkWQG0NDQ+uwmHvv//6XSNeyhcWviX+pw9XiJkOLlKEhahlg8Wvi9yNDg5ShBQvKRzGZzEH8kGGNlKGVLY4gSP6lpABglrZgMfMgi7O4drWmTRcYyNWunuX5SNeSAYuar8M6u4XOnoUMsLS1q6cxgAwoByzqnoIMhWRAxeAuXFoY1/CjfAiCIPkXSwFg5LVlaP++WrNQSVCyg7WPiBr5vVVbut0hZNiMdXaPPHCvCDoRzSEDJpM1h5RhHRa5j6Ac2oSHu4kgCJJ/KfYCmkDAWO8WBOzlBlETt045TU1a0pOn2jXhticlA6x8xOpjOUdrAldzoZZ2RobewzXILOq3HDCRDRE9UZQDQRAk/2IogTqhFzqXWy2yYB6z1gJAjiCQnib8B8TxyVNRylBvyVBTJBnQE1jpsxwel1src/YQBMl/NCkDkKCdkC3xxGRaIYkiy1D0ciAIgiAIgiAIgiAIgiAIgiAIgiCIsYL/X4ABABoKofvdf8HBAAAAAElFTkSuQmCC)
-
-Согласные различаются не только по глухости-звонкости, но и по твёрдости-мягкости.
-<br/>
-**Твёрдость-мягкость** – второй важнейший признак согласных в русском языке.
-
-**Мягкие согласные** отличаются от **твёрдых** особым положением языка. При произнесении твёрдых всё тело языка оттянуто назад, а при произнесении мягких сдвинуто вперед, а средняя часть языка при этом приподнята. Сравните: [м] – [м&#39;],  [з] – [з&#39;]. Звонкие мягкие звучат выше, чем твёрдые.
-
-Многие русские согласные образуют **пары по твердости-мягкости** : [б] – [б&#39;], [в] – [в&#39;] и другие. Таких пар 15.
-
-Пары по твёрдости-мягкости: [б] и [б&#39;],  [м] и [м&#39;], [п] и [п&#39;], [в] и [в&#39;], [ф] и [ф&#39;], [з] и [з&#39;], [с] и [с&#39;], [д] и [д&#39;], [т] и [т&#39;], [н] и [н&#39;], [л] и [л&#39;], [р] и [р&#39;], [к] и [к&#39;], [г] и [г&#39;], [х] и [х&#39;].
-
-Но есть звуки, у которых нет пары по признаку твёрдости-мягкости. Например, у звуков [ж], [ш], [ц]  нет мягкой пары, а у [й&#39;] и [ч&#39;] – твёрдой.
-
-**Непарные по твёрдости-мягкости**
-
-**Твёрдые непарные** : [ж], [ш], [ц]_._
-
-**Мягкие непарные** : [й&#39;], [ч&#39;], [ш&#39;:].
-
-## **§7. Обозначение мягкости согласных на письме**
-
-Отвлечёмся от чистой фонетики. Рассмотрим практически важный вопрос: как обозначается мягкость согласных на письме?
-
-В русском языке 36 согласных звуков, среди которых 15 пар по твёрдости-мягкости, 3 непарных твёрдых и 3 непарных мягких согласных. Согласных букв только 21. **Каким образом 21 буква может обозначать 36 звуков?**
-
-Для этого используются разные способы:
-
--  йотированные буквы _е, ё, ю, я_  после согласных, кроме _ш, ж_ и _ц,_ непарных по твёрдости-мягкости,   свидетельствуют, что эти согласные мягкие, например: _тётя_  - [т&#39;о´т&#39;а],  _дя´дя -_ [д&#39;а´д&#39;а]_;_
--  буква _и_  после согласных, кроме _ш, ж_ и _ц_. Согласные, обозначаемые буквами _ш, ж_ и _ц,_ непарные твёрдые. Примеры слов с гласной буквой _и_: _ни´тки_ – [н&#39;и´тк&#39;и], _лист_ – [л&#39;ист], _ми´лый_ – [м&#39;и´лый&#39;] ;
--  буква _ь,_ после согласных, кроме _ш, ж,_ после которых мягкий знак является показателем грамматической формы. Примеры слов с мягким знаком_:__про´сьба_ – [проз&#39;ба], _мель_ – [м&#39;эл&#39;], _даль_ – [дал&#39;].
-
-Таким образом, мягкость согласных на письме **передаётся не особыми буквами, а сочетаниями согласных букв с буквами**  **и, е, ё, ю, я** и **ь.** Поэтому при разборе советую обращать особое внимание на соседние буквы, стоящие после согласных.
-
-### **Обсуждаем проблему толкования**
-
-В  школьных учебниках сказано, что [ш] и [ш&#39;] _-_ непарные по твёрдости-мягкости. Как же так? Мы ведь слышим, что звук [ш&#39;] – это мягкий аналог  звука [ш].
-<br/>
-Когда в школе училась я сама, я не могла понять почему? Потом в школе учился мой сын. У него возник тот же вопрос. Он появляется у всех ребят, которые относятся к обучению вдумчиво.
-
-Недоумение возникает, потому что школьные учебники не учитывают, что звук [ш&#39;] ещё и долгий, а твёрдый [ш] нет. Пары – это звуки, различающиеся только одним признаком. А [ш] и [ш&#39;] – двумя. Поэтому [ш] и [ш&#39;]  не являются парами.
-
-**Для взрослых и старшеклассников**.
-
-Для того чтобы соблюсти корректность, необходимо школьную традицию транскрибирования звука [ш&#39;] изменить. Думается, что ребятам легче использовать ещё один дополнительный знак, чем сталкиваться с нелогичным, неясным и вводящим в заблуждение утверждением. Всё просто. Чтобы поколение за поколением не ломало голову, нужно, наконец, показать, что мягкий шипящий звук — долгий.
-
-Для этого в лингвистической практике существует два значка:
-
-1. надстрочная черта над звуком;
-2. двоеточие.
-
-Использование надстрочного знака неудобно, поскольку он не предусмотрен набором символов, которыми можно пользоваться при компьютерном наборе. Значит, остаются следующие возможности: использование двоеточия [ш&#39;:] либо графемы, обозначающей букву [щ&#39;]_._ Мне кажется, что первый вариант предпочтительнее. Во-первых, ребята поначалу часто смешивают звуки и буквы. Использование буквы в транскрипции создаст основание для такого смешения, спровоцирует ошибку. Во-вторых, ребята теперь рано начинают изучать иностранные языки. И значок [:]  при использовании его для обозначения долготы звука им уже знаком. В-третьих, транскрипция с обозначением долготы двоеточием [:] прекрасно передаст особенности звука. [ш&#39;:] - мягкий и долгий, оба признака, составляющие его отличие от звука [ш], представлены наглядно, просто и однозначно.
-
-Что посоветовать ребятам, которые учатся сейчас по общепринятым учебникам? Нужно понять, осмыслить, а потом запомнить, что на самом деле звуки [ш] и [ш&#39;:] пару по твёрдости-мягкости не образуют. А транскрибировать их я советую так, как этого требует ваш учитель.
-
-## **§8. Место образования согласных**
-
- Согласные различаются не только по уже известным вам признакам:
-
-- глухость-звонкость,
-- твердость-мягкость,
-- способ образования: смычка-щель.
-
-Важен последний, четвертый признак: **место образования**.
-<br/>
-Артикуляция одних звуков осуществляется губами, других - языком, его разными частями. Так, звуки [п], [п&#39;], [б], [б&#39;], [м], [м&#39;] – губно-губные, [в], [в&#39;], [ф], [ф&#39;] – губно-зубные, все остальные – язычные: переднеязычные [т], [т&#39;], [д], [д&#39;], [н], [н&#39;],[с], [с&#39;], [з], [з&#39;], [ш], [ж], [ш&#39;:], [ч&#39;], [ц], [л], [л&#39;], [р], [р&#39;]_, _ среднеязычный [й&#39;] и заднеязычные [к], [к&#39;], [г], [г&#39;], [х], [х&#39;].
-
-## **§9. Позиционные изменения звуков**
-
-### **1. Сильные-слабые позиции для гласных. Позиционные изменения гласных. Редукция**
-
-Люди не используют  произносимые звуки изолированно. Им это не нужно.
-<br/>
-Речь – это звуковой поток, но поток, определённым образом организованный. Важны условия, в которых оказывается тот или иной звук. Начало слова, конец слова, ударный слог, безударный слог, положение перед гласным, положение перед согласным – всё это разные позиции. Будем разбираться, как различать сильные и слабые позиции сначала для гласных, а потом и для согласных.
-
-**Сильная позиция**  та, в которой звуки не подвергаются позиционно обусловленным изменениям и выступают в своём основном виде. Сильную позицию выделяют для групп звуков, например: для гласных это позиция в ударном слоге. А для согласных, к примеру, сильной является позиция перед гласными.
-
-**Для гласных сильная позиция под ударением, а слабая – без ударения**.
-<br/>
-В безударных слогах гласные подвергаются изменениям: они короче и не произносятся так же отчётливо, как под ударением. Такое изменение гласных в слабой позиции называется **редукцией**. Благодаря редукции в слабой позиции различается меньше гласных, чем в сильной.
-
-Звуки, соответствующие ударным [о] и [а], после твёрдых согласных в слабой, безударной позиции звучат одинаково. Нормативным в русском языке признается «аканье», т.е. неразличение _О_ и _А_ в безударном положении после твёрдых согласных.
-
-Сравни:
-- под ударением: [дом] – [дам] -  [о] ≠ [а].
-- без ударения: [дама´] -дома´- [дала´] -дала´ – [а] = [а].
-
-Звуки, соответствующие ударным [а] и [э], после мягких согласных в слабой, безударной позиции звучат одинаково. Нормативным произношением считается «иканье», т.е. неразличение _Э_ и _А_ в безударном положении после мягких согласных.
-
-Сравни:
-- под ударением: [м&#39;эч&#39;] - [м&#39;ач&#39;] –  [э] ≠[a].
-- без ударения: [м&#39;ич&#39;о´м]- _мечо´м  -_ [м&#39;ич&#39;о´м]_- мячо´м  - [и] = [и]._
-- А как же гласные [и], [ы], [у]? Почему о них ничего не говорилось? Дело в том, что эти гласные в слабой позиции подвергаются только количественной редукции: они произносятся более кратко, слабо, но качество их не изменяется. То есть, как для всех гласных, безударное положение для них -  это слабая позиция, но для школьника эти гласные в безударном положении проблемы не представляют.
-
-Сравни:
-[лы´жы], [в \_лу´жу], [н&#39;и´т&#39;и] – и в сильной, и в слабой позициях качество гласных не меняется. И под ударением, и в безударной позиции мы ясно слышим: [ы], [у], [и] и пишем буквы, которыми эти звуки принято обозначать.
-
-### **Обсуждаем проблему толкования**
-
-**Какие гласные звуки на самом деле произносятся в безударных слогах после твёрдых согласных?**
-
-Выполняя фонетический разбор и делая транскрипцию слов, многие ребята высказывают недоумение. В длинных многосложных словах после твёрдых согласных произносится не звук [а], как это утверждают школьные учебники, а нечто иное.
-
-Они правы.
-
-Сравни произношение слов: _Москва – москвичи_. Повтори каждое слово несколько раз и послушай, какой гласный звучит в первом слоге. Со словом _Москва_ всё просто. Мы произносим: [масква´] – ясно слышен звук [а]. А слово _москвичи_? В соответствии с литературной нормой, во всех слогах, кроме первого слога перед ударением, а также позиций начала и конца слова мы произносим не [а], а другой звук: менее отчетливый, менее ясный, больше похожий на [ы], чем на [a].  В научной традиции этот звук обозначают значком [ъ]. Значит, реально мы произносим: [мълако´] - _молоко´,_ [хърашо´] _- хорошо´,_ [кълбаса´] _- колбаса´_.
-
-Я понимаю, что, давая этот материал в учебниках, авторы пытались его упростить. Упростили. Но многие ребята с хорошим слухом, слышащие ясно, что звуки в следующих примерах разные, никак не могут понять, почему учитель и учебник настаивают на том, что эти звуки одинаковы. На самом деле:
-
-[вада´] _– вода´ –_ [въд&#39;иной&#39;] _- водяно´й:_ [а]≠[ъ]
-<br/>
-[драва´] _ - дрова´ –_ [дръв&#39;ино´й&#39;] _- дровяно´й:_ [а]≠[ъ]
-
-Особую подсистему составляют реализации гласных в безударных слогах после шипящих. Но в школьном курсе этот материал в большинстве учебников не представлен вообще.
-
-**Какие  гласные звуки на самом деле произносятся в безударных слогах после мягких согласных?**
-
-Наибольшее сочувствие я испытываю к ребятам, которые учатся по учебникам, предлагающим на месте _А, Э_, _О_ после мягких согласных слышать и передавать в транскрипции звук «и, склонное к э». Считаю принципиально неверным давать школьникам в качестве единственного варианта устаревшую норму произношения – «эканье», встречающуюся сегодня гораздо реже «иканья», преимущественно у глубоко пожилых людей. Ребята, смело пишите в безударной позиции в первом слоге перед ударением на месте _А_ и _Э_ – [и].
-
-После мягких согласных в других безударных слогах, кроме позиции конца слова, мы произносим короткий слабый звук, напоминающий [и] и обозначаемый как [ь]. Произнесите слова _во´семь,__де´вять _и послушайте себя. Мы произносим: [во´с&#39;ьм&#39;] - [ь], [д&#39;э´в&#39;ьт&#39;] - [ь].
-
-_Не путай: _
-
-Знаки транскрипции - это одно, а буквы -  совсем другое.
-<br/>
-Знак  транскрипции [ъ] обозначает гласный после твердых согласных в безударных слогах, кроме первого слога перед ударением.
-<br/>
-Буква ъ - это твёрдый знак.
-<br/>
-Знак транскрипции [ь] обозначает гласный после мягких согласных в безударных слогах, кроме первого слога перед ударением.
-<br/>
-Буква ь - это мягкий знак.
-<br/>
-Знаки транскрипции, в отличие от букв, даются в прямых квадратных скобках.
-
-**Конец слова** – особая позиция. В ней наблюдается прояснение гласных после мягких согласных.  Система безударных окончаний – это особая фонетическая подсистема. В ней _Э_ и _А_ различаются:
-
-_Зда´ние_ [зда´н&#39;ий&#39;э] _– зда´ния _[зда´н&#39;ий&#39;а], _мне´ние _[мн&#39;э´н&#39;ий&#39;э] _- мне´ния _[мн&#39;э´н&#39;ий&#39;а], _мо´ре_ [мо´р&#39;э] _- мо´ря_ [мо´р&#39;а], _во´ля_ [во´л&#39;а] _– на во´ле_ [на\_во´л&#39;э]. Помните об этом, когда делаете фонетический разбор слов.
-
-_Проверьте:_
-
-Как требует обозначать гласные в безударном положении ваш учитель. Если он использует упрощённую систему транскрипции, ничего страшного: это широко принято. Просто не удивляйтесь тому, что реально вы слышите в безударном положении разные звуки.
-
-### **2. Сильные-слабые позиции для согласных. Позиционные изменения согласных**
-
-Для всех без исключения согласных сильной позицией является **позиция перед гласным**. Перед гласными согласные выступают в своём основном виде. Поэтому, делая фонетический разбор, не бойтесь ошибиться, характеризуя согласный, стоящий в сильной позиции: [дач&#39;а] _ - да´ча,_  [т&#39;ьл&#39;ив&#39;и´зър] _- телеви´зор,  _[с&#39;ино´н&#39;имы] _- сино´нимы,_ [б&#39;ир&#39;о´зы] _- берёзы,_ [карз&#39;и´ны] _- корзи´ны_. Все согласные в этих примерах перед гласными, т.е. в сильной позиции.
-
-**Сильные позиции по глухости звонкости:**
-
-- перед гласными: [там] _- там,_ [дам] _- дам_,
-- перед непарными звонкими [р], [р&#39;], [л], [л&#39;], [н], [н&#39;], [м],[м&#39;],[й&#39;]:  [дл&#39;а] _- для,  _[тл&#39;а] _– тля_,
-- Перед [в],[в&#39;]: [свой&#39;] _– свой,_ [звон] _– звон_.
-
-_Запомни:_
-
-В сильной позиции звонкие и глухие согласные не меняют своего качества.
-
-**Слабые позиции по глухости-звонкости:**
-
-- перед парными по глухости-звонкости: [сла´тк&#39;ий] _- сла´дкий,_ [зу´пк&#39;и] _– зу´бки_.
-- перед глухими непарными: [апхва´т] - обхват, [фхот] - вход.
-- на конце слова: [зуп] _– зуб,_ [дуп] _– дуб.
-
-**Позиционные изменения согласных по глухости-звонкости**
-
-В слабых позициях согласные видоизменяются: с ними происходят позиционные изменения. Звонкие становятся глухими, т.е. оглушаются, а глухие – звонкими, т.е. озвончаются. Позиционные изменения наблюдаются только у парных согласных.
-
-**Оглушение-озвончение согласных**
-
-**Оглушение звонких**   происходит в позициях:
-
-- перед  парными глухими: [фста´в&#39;ит&#39;] _–_ _в__ста´вить_,
-- на конце слова: [клат] _– клад._
-
-**Озвончение глухих** происходит в позиции:
-
--  перед  парными звонкими: [каз&#39;ба´] _– ко __с__ ьба´_
-
-**Cильные позиции по твёрдости-мягкости:**
-
-- перед гласными: [мат&#39;] _– мать,_ [м&#39;aт&#39;] _– мять_,
-- на конце слова: [вон] _– вон,  _[вон&#39;] _– вонь_,
-- перед губно-губными: [б], [б&#39;], [п], [п&#39;], [м], [м&#39;] и заднеязычными: [к], [к&#39;], [г], [г&#39;], [х[, [х&#39;]  для звуков [с], [с&#39;], [з], [з&#39;], [т], [т&#39;], [д], [д&#39;], [н],  [н&#39;], [р], [р&#39;]:  [са´н&#39;к&#39;и] _– Са´ньки_ (род. пад.), [с´анк&#39;и] _– са´нки,_ [бу´лка] _- бу´лка ,_ [бу´л&#39;кът&#39;] _– бу´лькать,_
-- все позиции для звуков [л] и [л&#39;]: [лба] _– лба, _ [пал&#39;ба] _– пальба._
-
-_Запомни:_
-
-В сильной позиции  твёрдые и мягкие согласные не меняют своего качества.
-
-**Слабые позиции по твёрдости-мягкости и позиционные изменения по твёрдости-мягкости.**
-
-- перед мягкими [т&#39;], [д&#39;] для согласных [c], [з], которые  обязательно смягчаются: [c&#39;т&#39;эп&#39;], [з&#39;д&#39;эс&#39;],
-- перед [ч&#39;] и [ш&#39;:] для [н], который обязательно смягчается: [по´н&#39;ч&#39;ик] _– по´нчик,_ [ка´м&#39;ьн&#39;ш&#39;:ик] - _ка´менщик._
-
-_Запомни:_
-
-В ряде позиций сегодня возможно как мягкое, так и твёрдое произношение:
-
-- перед мягкими  переднеязычными [н&#39;], [л&#39;]  для переднеязычных  согласных [c], [з]: _снег -_ [с&#39;н&#39;эк]  и [cн&#39;эк], _злить -_ [з&#39;л&#39;ит&#39;] и [зл&#39;ит&#39;]
-- перед мягкими переднеязычными  [c&#39;], [з&#39;] для переднеязычных  [т], [д] - _ подня´ть -_ [пад&#39;н&#39;а´т&#39;] и [падн&#39;а´т&#39;]_, отня´ть -_ [ат&#39;н&#39;а´т&#39;] и [атн&#39;а´т&#39;]
-- перед мягкими переднеязычными [т&#39;], [д&#39;], [с&#39;], [з&#39;] для переднеязычного [н] : _ви´нтик - _[в&#39;и´н&#39;т&#39;ик] и [в&#39;и´нт&#39;ик], _пе´нсия -_ [п&#39;э´н&#39;с&#39;ий&#39;а]  и  [п&#39;э´нс&#39;ий&#39;а]
-- перед мягкими губными  [в&#39;], [ф&#39;], [б&#39;], [п&#39;], [м&#39;] для губных: _вписа´ть -_ [ф&#39;п&#39;иса´т&#39;] и [фп&#39;ис´ат&#39;], _ри´фме_ (дат. пад.) - [р&#39;и´ф&#39;м&#39;э] и [р&#39;и´фм&#39;э]
-
-_Запомни:_
-
-Во всех случаях  в слабой позиции возможно позиционное смягчение согласных.
-<br/>
-Писать мягкий знак при позиционном смягчении согласных ошибочно.
-
-**Позиционные изменения согласных по признакам способа и места образования**
-
-Естественно, в школьной традиции не принято излагать характеристики звуков и происходящих с ними позиционных изменений со всеми подробностями. Но общие закономерности фонетики нужно усвоить. Без этого трудно делать фонетические разборы и выполнять задания тестов. Поэтому ниже представлен список позиционно-обусловленных изменений согласных по признакам способа и места образования. Этот материал - ощутимая помощь для тех, кто хочет избежать ошибок в фонетическом разборе.
-
-**Уподобление согласных**
-
-Логика такая: для русского языка характерно уподобление звуков, если они в чем-либо схожи и при этом оказываются рядом.
-
-_Выучи список:_
-
-[c] и [ш] →[ш:] _– сшить_
-
-[з] и [ж] → [ж:]_ – сжать_
-
-[с] и [ч&#39;]
-- в корне слов_→_[ш&#39;:]_ – счастье, счёт_
-- на стыке морфем и слов_→_[ш&#39;:ч&#39;] _– расчесать,  бесчестный,_ с чем (предлог с последующим словом произносится слитно, как одно слово)
-
-[с] и [ш&#39;:] →[ш&#39;:]_ - расщепить_
-
-[т] и [c] 
-- в глагольных формах → [ц:]_ – улыбается_
-- на стыке приставки и корня_→_[цс] _– отсыпать_
-
-[т] и [ц] →[ц:] _- отцепить_
-
-[т]  и [ч&#39;] →[ч&#39;:] _- отчёт_
-
-[т] и  [т]  и [ш&#39;:]←[c] и [ч&#39;] _– отсчёт_
-
-[д] и [ш&#39;:] ←[c] и [ч&#39;]_ - подсчёт_
-
-**Расподобление согласных**
-
-Расподобление – это процесс позиционного изменения, противоположный уподоблению.
-
-[г] и [к&#39;] →[х&#39;к&#39;] _– лёгкий_
-
-**Упрощение групп согласных**
-
-_Выучи список:_
-
-вств – [ств]:_ здравствуй, чувствовать _
-<br/>
-здн – [зн]:_ поздно_
-<br/>
-здц - [сц]_: под уздцы_
-<br/>
-лнц - [нц]:_ солнце _
-<br/>
-ндц _-_ [нц]: _голландцы _
-<br/>
-ндш_ -_ [нш:] _ландшафт _
-<br/>
-нтг - [нг]: _рентген_
-<br/>
-рдц_ -_ [рц]: _сердце _
-<br/>
-рдч_ -_ [рч&#39;]: _сердчишко _
-<br/>
-стл - [сл&#39;]: _счастливый _
-<br/>
-стн - [сн]: _местный_
-
-**Произношение групп звуков:**
-
-В формах прилагательных, местоимений, причастий встречаются буквенные сочетания: _ого, его. В_место _г_ в них произносится [в]: _его, красивого, синего_.
-<br/>
-Избегай побуквенного чтения. Произноси слова _его, синего, красивого_ правильно.
-
-## **§10. Буквы и звуки**
-
-Буквы и звуки имеют разное назначение и разную природу. Но это соотносимые системы. Поэтому типы соотношения нужно знать.
-
-**Типы соотношения букв и звуков:**
-
-1. Буква обозначает звук, например гласные после твёрдых согласных и согласные перед гласными: _погода_.
-2. Буква не имеет собственного звукового значения, например _ь_ и _ъ_: _мышь_
-3. Буква обозначает два звука, например, йотированные гласные _е, ё, ю, я _в позициях:
->- начала слова,
->- после гласных,
->- после разделительных _ь_ и _ъ_.
-4. Буква может обозначать звук и качество предшествующего звука, например йотированные гласные  и _и_ после мягких согласных.
-5. Буква может обозначать качество предшествующего звука, например _ь_ в словах _тень, пень, пальба._
-6. Две буквы могут обозначать один звук, чаще долгий: _сшить, сжать, несся_
-7. Три буквы соответствуют одному звуку: _улыбаться - тьс -_ [ц:]
+**Интонация** - это единство взаимосвязанных компонентов: мелодики, интенсивности, длительности, темпа, тембра и пауз. Интонация в высказывании выполняет определенные функции:
+- различает коммуникативные виды высказывания: побуждение, восклицание, вопрос, импликацию, повествование;
+- оформляет высказывание в единое целое, выделяет его части в соответствии с их важностью;
+- выражает конфетные эмоции;
+- передает подтекст высказывания;
+- характеризует говорящего.
